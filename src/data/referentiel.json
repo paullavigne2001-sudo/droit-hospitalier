@@ -1,260 +1,1769 @@
-{
-
-"Notion_ID": "FIN-001",
-
-"Domaine": "Finances hospitalières",
-
-"Sous-domaine": "Cadre général",
-
-"Notion": "Cadre budgétaire, financier et comptable des établissements publics de santé",
-
-"Définition_juridique": "Le cadre budgétaire, financier et comptable des établissements publics de santé (EPS) désigne l'ensemble des règles qui organisent la prévision et l'autorisation des recettes et des dépenses, leur exécution, la gestion de la trésorerie, la comptabilisation des opérations, le suivi financier et la reddition des comptes. Pour les EPS, ce cadre résulte de l'articulation entre les dispositions spécifiques du Code de la santé publique relatives à l'organisation financière et le régime de la gestion budgétaire et comptable publique. L'article R. 6145-1 du Code de la santé publique soumet expressément les EPS au régime budgétaire, financier et comptable défini par le titre Ier du décret n° 2012-1246 du 7 novembre 2012, sous réserve des dispositions particulières du Code de la santé publique. Le dispositif comprend notamment l'état des prévisions de recettes et de dépenses (EPRD), l'exécution budgétaire, la comptabilité, la trésorerie et le compte financier. La nomenclature et les règles budgétaires et comptables hospitalières sont précisées par l'instruction M21, dont la version applicable à compter du 1er janvier 2026 résulte notamment de l'arrêté du 17 décembre 2025. La notion doit être distinguée de chacune de ses composantes : l'EPRD constitue l'acte annuel de prévision et d'autorisation des recettes et dépenses, tandis que la M21 constitue le référentiel budgétaire et comptable applicable aux EPS.",
-
-"Missions": "Ce cadre permet à l'établissement de programmer ses ressources et ses emplois, d'exécuter ses opérations dans le respect des règles budgétaires et comptables, de suivre sa situation financière et sa trésorerie, de financer ses investissements et de produire une information financière fiable. Il vise notamment la sincérité des prévisions, la régularité de l'exécution, la qualité des comptes et le suivi des équilibres financiers. Il permet également d'assurer la reddition des comptes de l'établissement et le contrôle exercé par les autorités compétentes.",
-
-"Compétences": "Le directeur de l'établissement est l'ordonnateur du budget : il prépare et fixe les prévisions budgétaires dans les conditions prévues par les textes, ordonne les recettes et les dépenses et assure le pilotage financier de l'établissement. Le comptable public assure, dans son champ de compétence, le maniement des fonds, la tenue des comptes, la prise en charge et le recouvrement des recettes ainsi que le paiement des dépenses, conformément au régime de la gestion budgétaire et comptable publique. Le conseil de surveillance intervient notamment dans l'approbation du compte financier et l'affectation des résultats dans les conditions prévues par le Code de la santé publique. Le directeur général de l'agence régionale de santé exerce les compétences de contrôle et d'approbation qui lui sont attribuées par les textes, notamment à l'égard de certains documents budgétaires et financiers. Lorsque l'établissement entre dans le champ légal de la certification, le certificateur intervient selon les règles spécifiques applicables.",
-
-"Organisation": "L'organisation financière repose sur la séparation fonctionnelle entre l'ordonnateur et le comptable public. Le directeur pilote la préparation et l'exécution budgétaires avec les services de l'établissement ; le comptable public assure les opérations qui relèvent de sa compétence et la tenue des comptes. Le dispositif s'articule autour de l'EPRD pour la prévision annuelle, du PGFP pour la trajectoire financière pluriannuelle, de la comptabilité et de la trésorerie pour le suivi de l'exécution, puis du compte financier pour la clôture et la reddition des comptes. Le conseil de surveillance et l'ARS interviennent dans les limites de leurs attributions légales et réglementaires. La M21 assure la traduction budgétaire et comptable de ce cadre.",
-
-"Procédure": "Le cycle financier peut être présenté en cinq étapes. Premièrement, l'établissement élabore ses prévisions annuelles et sa trajectoire financière pluriannuelle, notamment au moyen de l'EPRD et du PGFP. Deuxièmement, l'EPRD est fixé et transmis selon les modalités prévues par le Code de la santé publique ; il peut ensuite faire l'objet des décisions modificatives prévues par les textes. Troisièmement, l'établissement exécute les recettes, les dépenses, les opérations d'investissement et les opérations de trésorerie selon les règles applicables, avec intervention distincte de l'ordonnateur et du comptable public. Quatrièmement, l'exécution fait l'objet d'un suivi infra-annuel et, lorsque les textes le prévoient, d'états comparatifs et de transmissions à l'ARS. Enfin, à la clôture de l'exercice, le directeur et le comptable établissent conjointement le projet de compte financier ; le directeur l'arrête et le transmet au conseil de surveillance, qui délibère sur son approbation et l'affectation des résultats dans les délais réglementaires.",
-
-"Conditions_exceptions": "Le régime décrit concerne les établissements publics de santé et ne doit pas être transposé automatiquement aux établissements privés de santé, qui relèvent de règles différentes, même si certaines dispositions budgétaires peuvent leur être étendues par des textes spécifiques. Au sein des EPS, certaines activités sont retracées dans des comptes de résultat prévisionnels annexes conformément à l'article R. 6145-12 du Code de la santé publique. Le cadre général doit également être complété, selon la nature de l'opération ou de la recette, par les règles du Code de la sécurité sociale, du Code général des collectivités territoriales ou d'autres textes spécifiques. La certification des comptes ne concerne par ailleurs que les établissements entrant dans le champ et les conditions fixés par les dispositions légales et réglementaires.",
-
-"Fondement_juridique": [
-
-"Code de la santé publique, sixième partie, livre Ier, titre IV, chapitre V « Organisation financière » des établissements publics de santé.",
-
-"Décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.",
-
-"Instruction budgétaire et comptable M21 applicable aux établissements publics de santé."
-
-],
-
-"Articles_précis": [
-
-"CSP, art. L. 6145-1 et suivants.",
-
-"CSP, art. R. 6145-1 : soumission des EPS au régime budgétaire, financier et comptable de la gestion budgétaire et comptable publique, sous réserve des dispositions particulières du CSP.",
-
-"CSP, art. R. 6145-3 : nomenclature budgétaire et comptable et instruction M21.",
-
-"CSP, art. R. 6145-5 : directeur ordonnateur du budget de l'EPS.",
-
-"CSP, art. R. 6145-6 : suivi des engagements et état comparatif de l'activité, des recettes et des dépenses.",
-
-"CSP, art. R. 6145-10 : EPRD, acte de prévision et d'autorisation des recettes et dépenses annuelles.",
-
-"CSP, art. R. 6145-12 : EPRD unique et comptes de résultat prévisionnels annexes.",
-
-"CSP, art. R. 6145-43 à R. 6145-47 : établissement, arrêt, approbation et transmission du compte financier.",
-
-"CSP, art. L. 6145-9 : recouvrement des créances des EPS, dans sa rédaction applicable depuis le 1er janvier 2026.",
-
-"CSP, art. L. 6145-16 : certification des comptes dans les conditions prévues par les textes."
-
-],
-
-"Textes_réglementaires": [
-
-"Décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.",
-
-"Décret n° 2012-1247 du 7 novembre 2012 relatif aux dispositions financières et comptables des établissements publics de santé.",
-
-"Arrêté du 17 décembre 2025 modifiant les arrêtés du 16 juin 2014 et du 19 décembre 2014 relatifs à l'instruction budgétaire et comptable M. 21 des établissements publics de santé ; dispositions applicables à compter du 1er janvier 2026.",
-
-"Arrêté du 16 décembre 2025 fixant le modèle des documents de l'état des prévisions de recettes et de dépenses et le modèle des documents de décision modificative des établissements publics de santé."
-
-],
-
-"Sources_officielles": [
-
-"Légifrance — Code de la santé publique, chapitre V « Organisation financière » : https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006171468/",
-
-"Légifrance — Code de la santé publique, dispositions réglementaires relatives à l'organisation financière : https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006178704",
-
-"Légifrance — Décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026597003/",
-
-"Légifrance — Arrêté du 17 décembre 2025 relatif à l'instruction budgétaire et comptable M21 : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053158748",
-
-"Ministère de la Santé — Instruction et nomenclature budgétaire et comptable des établissements publics de santé, exercice 2026 : https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/financement/regles-budgetaires-et-comptables/article/instruction-et-nomenclature-budgetaire-et-comptable-des-etablissements-publics",
-
-"Ministère de la Santé — EPRD, PGFP et TPER, cadres 2026 : https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/financement/regles-budgetaires-et-comptables/article/etat-des-previsions-de-recettes-et-de-depenses-eprd-plan-global-de-financement",
-
-"Ministère de la Santé — Compte financier des établissements publics de santé : https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/financement/regles-budgetaires-et-comptables/article/compte-financier-des-etablissements-publics-de-sante-eps"
-
-],
-
-"Jurisprudence": [],
-
-"Notions_liées": [
-
-"FIN-002 — Budget hospitalier",
-
-"FIN-003 — EPRD",
-
-"FIN-004 — ERRD",
-
-"FIN-005 — PGFP",
-
-"FIN-007 — Compte financier",
-
-"FIN-008 — Certification des comptes",
-
-"FIN-009 — Instruction budgétaire et comptable M21",
-
-"FIN-010 — Comptable public"
-
-],
-
-"Mots-clés": [
-
-"finances hospitalières",
-
-"établissement public de santé",
-
-"cadre budgétaire",
-
-"EPRD",
-
-"PGFP",
-
-"M21",
-
-"comptabilité publique",
-
-"ordonnateur",
-
-"comptable public",
-
-"compte financier",
-
-"trésorerie"
-
+[
+  {
+    "Notion_ID": "FIN-001",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Cadre général",
+    "Notion": "Cadre budgétaire, financier et comptable des établissements publics de santé",
+    "Définition_juridique": "Le cadre budgétaire, financier et comptable des établissements publics de santé (EPS) désigne l'ensemble des règles qui organisent la prévision et l'autorisation des recettes et des dépenses, leur exécution, la gestion de la trésorerie, la comptabilisation des opérations, le suivi financier et la reddition des comptes. Pour les EPS, ce cadre résulte de l'articulation entre les dispositions spécifiques du Code de la santé publique relatives à l'organisation financière et le régime de la gestion budgétaire et comptable publique. L'article R. 6145-1 du Code de la santé publique soumet expressément les EPS au régime budgétaire, financier et comptable défini par le titre Ier du décret n° 2012-1246 du 7 novembre 2012, sous réserve des dispositions particulières du Code de la santé publique. Le dispositif comprend notamment l'état des prévisions de recettes et de dépenses (EPRD), l'exécution budgétaire, la comptabilité, la trésorerie et le compte financier. La nomenclature et les règles budgétaires et comptables hospitalières sont précisées par l'instruction M21, dont la version applicable à compter du 1er janvier 2026 résulte notamment de l'arrêté du 17 décembre 2025. La notion doit être distinguée de chacune de ses composantes : l'EPRD constitue l'acte annuel de prévision et d'autorisation des recettes et dépenses, tandis que la M21 constitue le référentiel budgétaire et comptable applicable aux EPS.",
+    "Missions": "Ce cadre permet à l'établissement de programmer ses ressources et ses emplois, d'exécuter ses opérations dans le respect des règles budgétaires et comptables, de suivre sa situation financière et sa trésorerie, de financer ses investissements et de produire une information financière fiable. Il vise notamment la sincérité des prévisions, la régularité de l'exécution, la qualité des comptes et le suivi des équilibres financiers. Il permet également d'assurer la reddition des comptes de l'établissement et le contrôle exercé par les autorités compétentes.",
+    "Compétences": "Le directeur de l'établissement est l'ordonnateur du budget : il prépare et fixe les prévisions budgétaires dans les conditions prévues par les textes, ordonne les recettes et les dépenses et assure le pilotage financier de l'établissement. Le comptable public assure, dans son champ de compétence, le maniement des fonds, la tenue des comptes, la prise en charge et le recouvrement des recettes ainsi que le paiement des dépenses, conformément au régime de la gestion budgétaire et comptable publique. Le conseil de surveillance intervient notamment dans l'approbation du compte financier et l'affectation des résultats dans les conditions prévues par le Code de la santé publique. Le directeur général de l'agence régionale de santé exerce les compétences de contrôle et d'approbation qui lui sont attribuées par les textes, notamment à l'égard de certains documents budgétaires et financiers. Lorsque l'établissement entre dans le champ légal de la certification, le certificateur intervient selon les règles spécifiques applicables.",
+    "Organisation": "L'organisation financière repose sur la séparation fonctionnelle entre l'ordonnateur et le comptable public. Le directeur pilote la préparation et l'exécution budgétaires avec les services de l'établissement ; le comptable public assure les opérations qui relèvent de sa compétence et la tenue des comptes. Le dispositif s'articule autour de l'EPRD pour la prévision annuelle, du PGFP pour la trajectoire financière pluriannuelle, de la comptabilité et de la trésorerie pour le suivi de l'exécution, puis du compte financier pour la clôture et la reddition des comptes. Le conseil de surveillance et l'ARS interviennent dans les limites de leurs attributions légales et réglementaires. La M21 assure la traduction budgétaire et comptable de ce cadre.",
+    "Procédure": "Le cycle financier peut être présenté en cinq étapes. Premièrement, l'établissement élabore ses prévisions annuelles et sa trajectoire financière pluriannuelle, notamment au moyen de l'EPRD et du PGFP. Deuxièmement, l'EPRD est fixé et transmis selon les modalités prévues par le Code de la santé publique ; il peut ensuite faire l'objet des décisions modificatives prévues par les textes. Troisièmement, l'établissement exécute les recettes, les dépenses, les opérations d'investissement et les opérations de trésorerie selon les règles applicables, avec intervention distincte de l'ordonnateur et du comptable public. Quatrièmement, l'exécution fait l'objet d'un suivi infra-annuel et, lorsque les textes le prévoient, d'états comparatifs et de transmissions à l'ARS. Enfin, à la clôture de l'exercice, le directeur et le comptable établissent conjointement le projet de compte financier ; le directeur l'arrête et le transmet au conseil de surveillance, qui délibère sur son approbation et l'affectation des résultats dans les délais réglementaires.",
+    "Conditions_exceptions": "Le régime décrit concerne les établissements publics de santé et ne doit pas être transposé automatiquement aux établissements privés de santé, qui relèvent de règles différentes, même si certaines dispositions budgétaires peuvent leur être étendues par des textes spécifiques. Au sein des EPS, certaines activités sont retracées dans des comptes de résultat prévisionnels annexes conformément à l'article R. 6145-12 du Code de la santé publique. Le cadre général doit également être complété, selon la nature de l'opération ou de la recette, par les règles du Code de la sécurité sociale, du Code général des collectivités territoriales ou d'autres textes spécifiques. La certification des comptes ne concerne par ailleurs que les établissements entrant dans le champ et les conditions fixés par les dispositions légales et réglementaires.",
+    "Fondement_juridique": [
+      "Code de la santé publique, sixième partie, livre Ier, titre IV, chapitre V « Organisation financière » des établissements publics de santé.",
+      "Décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.",
+      "Instruction budgétaire et comptable M21 applicable aux établissements publics de santé."
+    ],
+    "Articles_précis": [
+      "CSP, art. L. 6145-1 et suivants.",
+      "CSP, art. R. 6145-1 : soumission des EPS au régime budgétaire, financier et comptable de la gestion budgétaire et comptable publique, sous réserve des dispositions particulières du CSP.",
+      "CSP, art. R. 6145-3 : nomenclature budgétaire et comptable et instruction M21.",
+      "CSP, art. R. 6145-5 : directeur ordonnateur du budget de l'EPS.",
+      "CSP, art. R. 6145-6 : suivi des engagements et état comparatif de l'activité, des recettes et des dépenses.",
+      "CSP, art. R. 6145-10 : EPRD, acte de prévision et d'autorisation des recettes et dépenses annuelles.",
+      "CSP, art. R. 6145-12 : EPRD unique et comptes de résultat prévisionnels annexes.",
+      "CSP, art. R. 6145-43 à R. 6145-47 : établissement, arrêt, approbation et transmission du compte financier.",
+      "CSP, art. L. 6145-9 : recouvrement des créances des EPS, dans sa rédaction applicable depuis le 1er janvier 2026.",
+      "CSP, art. L. 6145-16 : certification des comptes dans les conditions prévues par les textes."
+    ],
+    "Textes_réglementaires": [
+      "Décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.",
+      "Décret n° 2012-1247 du 7 novembre 2012 relatif aux dispositions financières et comptables des établissements publics de santé.",
+      "Arrêté du 17 décembre 2025 modifiant les arrêtés du 16 juin 2014 et du 19 décembre 2014 relatifs à l'instruction budgétaire et comptable M. 21 des établissements publics de santé ; dispositions applicables à compter du 1er janvier 2026.",
+      "Arrêté du 16 décembre 2025 fixant le modèle des documents de l'état des prévisions de recettes et de dépenses et le modèle des documents de décision modificative des établissements publics de santé."
+    ],
+    "Sources_officielles": [
+      "Légifrance — Code de la santé publique, chapitre V « Organisation financière » : https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006171468/",
+      "Légifrance — Code de la santé publique, dispositions réglementaires relatives à l'organisation financière : https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006178704",
+      "Légifrance — Décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026597003/",
+      "Légifrance — Arrêté du 17 décembre 2025 relatif à l'instruction budgétaire et comptable M21 : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053158748",
+      "Ministère de la Santé — Instruction et nomenclature budgétaire et comptable des établissements publics de santé, exercice 2026 : https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/financement/regles-budgetaires-et-comptables/article/instruction-et-nomenclature-budgetaire-et-comptable-des-etablissements-publics",
+      "Ministère de la Santé — EPRD, PGFP et TPER, cadres 2026 : https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/financement/regles-budgetaires-et-comptables/article/etat-des-previsions-de-recettes-et-de-depenses-eprd-plan-global-de-financement",
+      "Ministère de la Santé — Compte financier des établissements publics de santé : https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/financement/regles-budgetaires-et-comptables/article/compte-financier-des-etablissements-publics-de-sante-eps"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [
+      "FIN-002 — Budget hospitalier",
+      "FIN-003 — EPRD",
+      "FIN-004 — ERRD",
+      "FIN-005 — PGFP",
+      "FIN-007 — Compte financier",
+      "FIN-008 — Certification des comptes",
+      "FIN-009 — Instruction budgétaire et comptable M21",
+      "FIN-010 — Comptable public"
+    ],
+    "Mots-clés": [
+      "finances hospitalières",
+      "établissement public de santé",
+      "cadre budgétaire",
+      "EPRD",
+      "PGFP",
+      "M21",
+      "comptabilité publique",
+      "ordonnateur",
+      "comptable public",
+      "compte financier",
+      "trésorerie"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-002",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Budget",
+    "Notion": "Budget hospitalier",
+    "Définition_juridique": "Dans les établissements publics de santé, le budget annuel est principalement constitué par l'état des prévisions de recettes et de dépenses (EPRD), qui est l'acte par lequel sont prévues et autorisées les recettes et les dépenses annuelles de l'établissement. Le terme « budget hospitalier » désigne ainsi le cadre annuel de prévision et d'autorisation financière de l'EPS, et non un simple tableau prévisionnel de trésorerie. En application de l'article R. 6145-13 du Code de la santé publique, il comprend un compte de résultat prévisionnel principal, des comptes de résultat prévisionnels annexes pour certaines activités et un tableau de financement prévisionnel pour les opérations d'investissement. Les crédits budgétaires sont en principe évaluatifs, sauf ceux inscrits sur les titres ou chapitres auxquels les textes confèrent un caractère limitatif. Le budget annuel doit être distingué du PGFP, qui décrit la trajectoire financière pluriannuelle, et du compte financier, qui retrace l'exécution de l'exercice. Pour 2026, la présentation de l'EPRD et des décisions modificatives est régie par l'arrêté du 16 décembre 2025.",
+    "Missions": "Le budget hospitalier permet de traduire financièrement les activités, les orientations et les choix de gestion de l'établissement pour un exercice. Il sert à prévoir les recettes attendues, autoriser les dépenses, programmer les opérations d'investissement, apprécier l'équilibre financier prévisionnel et donner un cadre au suivi de l'exécution. Il constitue également un instrument de pilotage : la comparaison entre les prévisions et l'exécution permet d'identifier les écarts, d'actualiser les prévisions et, lorsque nécessaire, de prendre des décisions modificatives. Il s'articule avec le PGFP afin que les décisions annuelles restent cohérentes avec la trajectoire financière pluriannuelle.",
+    "Compétences": "Le directeur de l'établissement public de santé fixe les prévisions de recettes et de dépenses et est l'ordonnateur du budget. Il peut, en cours d'exercice, procéder à certains virements de crédits dans les limites prévues par les textes et fixe les décisions modificatives dans les conditions réglementaires. Les services financiers et les responsables opérationnels contribuent à la préparation et au suivi des prévisions, sans disposer pour autant de la compétence juridique de l'ordonnateur. Le comptable public contrôle notamment la disponibilité des crédits limitatifs au niveau prévu par les textes et exécute les opérations qui relèvent de ses attributions. Le directeur général de l'ARS peut demander certaines modifications budgétaires dans les conditions prévues par le Code de la santé publique et exerce les compétences de contrôle qui lui sont attribuées. Le conseil de surveillance intervient notamment dans le cadre de l'approbation du compte financier, mais ne vote pas l'EPRD comme le faisait l'ancien conseil d'administration.",
+    "Organisation": "Le budget est organisé autour d'un EPRD unique pour les dépenses et recettes des activités de l'EPS, complété par des comptes de résultat prévisionnels annexes pour les activités expressément prévues par l'article R. 6145-12. Le compte de résultat prévisionnel principal retrace les opérations d'exploitation qui ne relèvent pas d'un compte annexe ; le tableau de financement prévisionnel retrace les opérations d'investissement de l'ensemble des services et activités. Cette architecture permet de relier résultat prévisionnel, capacité d'autofinancement et financement des investissements. Elle doit être mise en cohérence avec le PGFP et avec les règles de la nomenclature M21. La préparation et l'exécution reposent sur l'articulation entre ordonnateur, services de l'établissement et comptable public.",
+    "Procédure": "La préparation commence par l'établissement des prévisions de recettes, de dépenses et d'investissement à partir de l'activité attendue, des ressources connues ou prévisibles, des charges, des projets d'investissement et de la trajectoire du PGFP. Le directeur fixe ensuite les prévisions selon les modalités prévues par le Code de la santé publique. L'EPRD est présenté selon le modèle réglementaire applicable à l'exercice et transmis dans les conditions prévues par les textes. En cours d'exercice, son contenu peut être ajusté par des décisions modificatives ; certaines décisions liées notamment à une modification de dotations doivent être transmises à l'ARS dans les conditions prévues à l'article R. 6145-10. L'exécution fait l'objet d'un suivi budgétaire et comptable, notamment au regard des crédits limitatifs. En fin d'exercice, les opérations exécutées sont retracées dans le compte financier, qui permet de comparer la situation réalisée aux prévisions.",
+    "Conditions_exceptions": "Le régime concerne les établissements publics de santé et ne doit pas être assimilé au régime budgétaire des établissements privés de santé ou des établissements et services médico-sociaux. Les crédits inscrits au budget sont en principe évaluatifs ; certains titres ou chapitres sont limitatifs et font l'objet d'un contrôle spécifique de disponibilité par le comptable public. L'EPRD est unique pour les activités de l'EPS, mais l'article R. 6145-12 prévoit des comptes de résultat prévisionnels annexes pour certaines activités, notamment les unités de soins de longue durée, les écoles et instituts de formation concernés et certains établissements et services d'hébergement de personnes âgées. Les décisions modificatives sont soumises aux règles propres à leur objet ; lorsqu'elles modifient certaines dotations, elles doivent être transmises à l'ARS au plus tard le 31 décembre de l'exercice concerné.",
+    "Fondement_juridique": [
+      "Code de la santé publique, articles L. 6145-1 et suivants relatifs à l'organisation financière des établissements publics de santé.",
+      "Code de la santé publique, articles R. 6145-10 à R. 6145-20 relatifs à la présentation et à la fixation de l'EPRD.",
+      "Décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.",
+      "Instruction budgétaire et comptable M21 applicable aux établissements publics de santé."
+    ],
+    "Articles_précis": [
+      "CSP, art. L. 6145-1 : principes relatifs à l'état des prévisions de recettes et de dépenses.",
+      "CSP, art. L. 6145-4 : compétences du directeur général de l'ARS en matière de modification de l'EPRD.",
+      "CSP, art. L. 6145-7 : ressources des établissements publics de santé et règles relatives aux prévisions de recettes.",
+      "CSP, art. R. 6145-5 : directeur ordonnateur du budget de l'établissement public de santé.",
+      "CSP, art. R. 6145-10 : définition de l'EPRD, fixation des prévisions et décisions modificatives.",
+      "CSP, art. R. 6145-12 : EPRD unique et comptes de résultat prévisionnels annexes.",
+      "CSP, art. R. 6145-13 : composition du budget des établissements publics de santé.",
+      "CSP, art. R. 6145-14 : caractère évaluatif ou limitatif des crédits.",
+      "CSP, art. R. 6145-16 : opérations d'investissement retracées dans le tableau de financement prévisionnel.",
+      "CSP, art. R. 6145-18 : présentation synthétique par titre et détaillée par chapitre.",
+      "CSP, art. R. 6145-19 et R. 6145-20 : modalités de fixation et de transmission de l'EPRD."
+    ],
+    "Textes_réglementaires": [
+      "Décret n° 2012-1247 du 7 novembre 2012 relatif aux dispositions financières et comptables des établissements publics de santé.",
+      "Arrêté du 16 décembre 2025 fixant le modèle des documents de l'état des prévisions de recettes et de dépenses et le modèle des documents de décision modificative des établissements publics de santé et des établissements de santé privés mentionnés aux b et c de l'article L. 162-22 du code de la sécurité sociale, applicable à compter de l'exercice 2026.",
+      "Arrêté du 17 décembre 2025 modifiant les arrêtés relatifs à l'instruction budgétaire et comptable M. 21 des établissements publics de santé, applicable pour l'exercice 2026."
+    ],
+    "Sources_officielles": [
+      "Légifrance — Code de la santé publique, chapitre V « Organisation financière » : https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006178704",
+      "Légifrance — Présentation et fixation de l'EPRD, articles R. 6145-10 à R. 6145-20 : https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006196964/",
+      "Légifrance — Article R. 6145-13 relatif à la composition du budget des établissements publics de santé : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006691051",
+      "Légifrance — Arrêté du 16 décembre 2025 fixant les modèles EPRD et décisions modificatives : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053165953",
+      "Ministère de la Santé — EPRD, PGFP, TPER et cadres EPRD 2026 : https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/financement/regles-budgetaires-et-comptables/article/etat-des-previsions-de-recettes-et-de-depenses-eprd-plan-global-de-financement",
+      "Ministère de la Santé — Instruction et nomenclature budgétaire et comptable M21, exercice 2026 : https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/financement/regles-budgetaires-et-comptables/article/instruction-et-nomenclature-budgetaire-et-comptable-des-etablissements-publics"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [
+      "FIN-001 — Finances hospitalières",
+      "FIN-003 — EPRD",
+      "FIN-005 — PGFP",
+      "FIN-007 — Compte financier"
+    ],
+    "Mots-clés": [
+      "budget hospitalier",
+      "EPRD",
+      "prévision",
+      "autorisation",
+      "crédits limitatifs",
+      "dépenses",
+      "recettes",
+      "investissement",
+      "décision modificative",
+      "PGFP"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-003",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Prévision",
+    "Notion": "État des prévisions de recettes et de dépenses (EPRD) des établissements publics de santé",
+    "Définition_juridique": "L'état des prévisions de recettes et de dépenses (EPRD) est l'acte budgétaire annuel par lequel sont prévues et autorisées les recettes et les dépenses d'un établissement public de santé. Il traduit financièrement les prévisions d'activité, les ressources attendues et les charges nécessaires au fonctionnement de l'établissement. Il s'inscrit dans le cadre plus large de la gestion budgétaire et comptable publique et doit être articulé avec la trajectoire financière pluriannuelle de l'établissement. L'EPRD ne constitue donc pas seulement un tableau prévisionnel : il est l'acte budgétaire annuel de référence de l'EPS.",
+    "Missions": "L'EPRD permet de programmer les ressources et les emplois de l'exercice, d'assurer la cohérence entre activité et financement, de déterminer les équilibres prévisionnels et de donner un cadre à l'exécution budgétaire. Il permet également de suivre les écarts entre prévisions et réalisation et de prendre, lorsque cela est nécessaire, des décisions modificatives.",
+    "Compétences": "Le directeur fixe les prévisions de recettes et de dépenses selon les modalités prévues par le Code de la santé publique. Les services de l'établissement contribuent à l'élaboration des prévisions selon leur domaine d'activité. Le comptable public intervient ensuite dans l'exécution et la tenue des comptes, sans être l'auteur de la décision budgétaire. Le directeur général de l'ARS exerce les pouvoirs de contrôle ou d'intervention que lui attribuent les textes, notamment en matière de décisions modificatives et de déséquilibre financier.",
+    "Organisation": "L'EPRD est construit par la direction de l'établissement, généralement sous le pilotage de la direction financière, à partir des prévisions d'activité, des recettes attendues, des dépenses de personnel et de fonctionnement, des investissements et des opérations financières. Il est cohérent avec le PGFP et avec les orientations de l'établissement. Son exécution repose ensuite sur la séparation entre ordonnateur et comptable public.",
+    "Procédure": "La construction commence par l'actualisation des hypothèses d'activité, de financement et de dépenses. Les services transmettent leurs prévisions, qui sont consolidées et arbitrées par la direction. Le directeur fixe ensuite l'EPRD selon les modalités réglementaires. En cours d'exercice, l'exécution est suivie et des décisions modificatives peuvent être prises lorsque les conditions réglementaires sont réunies. Les réalisations sont finalement retracées dans le compte financier.",
+    "Conditions_exceptions": "L'EPRD doit respecter les règles de présentation et de fixation prévues par le Code de la santé publique et les modèles réglementaires en vigueur. Il peut faire l'objet de décisions modificatives. Certaines opérations ou activités sont retracées dans des cadres spécifiques prévus par les textes. Il ne faut pas confondre l'EPRD des EPS avec les dispositifs EPRD/ERRD applicables à certains établissements et services sociaux et médico-sociaux.",
+    "Fondement_juridique": [
+      "Code de la santé publique, dispositions relatives à l'organisation financière des établissements publics de santé.",
+      "Décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique."
+    ],
+    "Articles_précis": [
+      "CSP, art. L. 6145-1 et suivants.",
+      "CSP, art. R. 6145-10 à R. 6145-20.",
+      "CSP, art. R. 6145-10 : l'EPRD est l'acte par lequel sont prévues et autorisées les recettes et dépenses annuelles."
+    ],
+    "Textes_réglementaires": [
+      "Arrêté du 16 décembre 2025 fixant, à compter de l'exercice 2026, les modèles des documents de l'EPRD et des décisions modificatives des établissements publics de santé."
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044922676",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053165953",
+      "https://www.legifrance.gouv.fr/eli/decret/2012/11/7/EFIX1205948D/jo/texte"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [
+      "FIN-001 — Cadre budgétaire, financier et comptable des établissements publics de santé",
+      "FIN-005 — PGFP",
+      "FIN-007 — Compte financier",
+      "FIN-009 — Instruction budgétaire et comptable M21"
+    ],
+    "Mots-clés": [
+      "EPRD",
+      "budget",
+      "prévision",
+      "recettes",
+      "dépenses",
+      "EPS"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-004",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Clôture / médico-social",
+    "Notion": "État réalisé des recettes et des dépenses (ERRD) des établissements et services sociaux et médico-sociaux",
+    "Définition_juridique": "L'état réalisé des recettes et des dépenses (ERRD) est un document de clôture utilisé dans le régime budgétaire et financier de certains établissements et services sociaux et médico-sociaux (ESSMS), notamment ceux relevant du dispositif EPRD prévu par le Code de l'action sociale et des familles. Il retrace les opérations réalisées et permet de rapprocher l'exécution de l'exercice des prévisions budgétaires. Pour un établissement public de santé relevant du secteur sanitaire, le document annuel de clôture de référence est le compte financier : l'ERRD ne doit donc pas être présenté comme le document normal de clôture d'un CHU.",
+    "Missions": "L'ERRD permet de rendre compte de l'exécution financière d'un exercice dans le secteur médico-social, d'identifier les écarts entre prévisions et réalisations et de déterminer les résultats comptables et leurs conditions d'affectation selon le régime applicable.",
+    "Compétences": "La personne ou l'organisme gestionnaire établit les documents de clôture selon le régime applicable. Le comptable intervient lorsqu'il y a lieu selon le statut de l'ESSMS. Les autorités de tarification et de contrôle reçoivent et analysent les documents transmis dans les conditions prévues par le CASF.",
+    "Organisation": "L'ERRD s'inscrit dans le cycle EPRD/ERRD de certains ESSMS : prévision budgétaire, exécution, clôture et transmission des résultats. Lorsqu'un établissement ou organisme comporte à la fois des activités sanitaires et médico-sociales, les régimes applicables doivent être distingués selon les activités et les textes qui les régissent.",
+    "Procédure": "À la clôture, les opérations de l'exercice sont arrêtées et les documents réalisés sont établis selon les cadres réglementaires. L'ERRD est complété par les documents et annexes exigés, puis transmis à l'autorité compétente dans les délais applicables. Les résultats font ensuite l'objet des règles d'analyse et d'affectation prévues par le CASF.",
+    "Conditions_exceptions": "L'ERRD concerne le champ médico-social dans les situations où le régime EPRD/ERRD est applicable. Il ne se substitue pas au compte financier des EPS sanitaires. Les modalités exactes dépendent notamment de la catégorie d'ESSMS, du statut du gestionnaire et des conditions prévues par le CASF et les textes réglementaires.",
+    "Fondement_juridique": [
+      "Code de l'action sociale et des familles, dispositions budgétaires et comptables relatives aux ESSMS.",
+      "Loi n° 2015-1776 du 28 décembre 2015 et textes réglementaires ayant organisé le régime EPRD/ERRD de certains ESSMS."
+    ],
+    "Articles_précis": [
+      "CASF, art. R. 314-232 : établissement de l'état réalisé des recettes et des dépenses à la clôture de l'exercice.",
+      "CASF, art. R. 314-233 et suivants : documents et suites de la clôture selon le régime applicable.",
+      "CASF, art. L. 313-12 et L. 313-12-2 : dispositifs pouvant conduire à l'application du régime EPRD/ERRD."
+    ],
+    "Textes_réglementaires": [
+      "Décret n° 2016-1815 du 21 décembre 2016 relatif aux dispositions financières applicables à certains ESSMS.",
+      "Arrêtés fixant les cadres et modèles EPRD/ERRD des ESSMS."
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000033697846/",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033735777"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [
+      "FIN-003 — EPRD",
+      "FIN-007 — Compte financier",
+      "FIN-001 — Cadre budgétaire, financier et comptable des établissements publics de santé"
+    ],
+    "Mots-clés": [
+      "ERRD",
+      "ESSMS",
+      "médico-social",
+      "clôture",
+      "EPRD"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-005",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Prospective",
+    "Notion": "Plan global de financement pluriannuel (PGFP) des établissements publics de santé",
+    "Définition_juridique": "Le plan global de financement pluriannuel (PGFP) est le document qui définit les orientations pluriannuelles des finances de l'établissement public de santé. Il retrace les dépenses et recettes prévisionnelles sur une durée minimale de cinq ans glissants, en exploitation et en investissement, et présente notamment l'évolution prévisionnelle de la marge brute, de la capacité d'autofinancement, du fonds de roulement, du besoin en fonds de roulement et de la trésorerie. Il intègre également les opérations du programme d'investissement et les modalités de leur financement.",
+    "Missions": "Le PGFP permet de vérifier la soutenabilité financière des projets de l'établissement, de planifier les investissements et leur financement, d'anticiper l'évolution de la dette et de la trésorerie et de mettre en cohérence les choix d'exploitation et d'investissement sur plusieurs exercices.",
+    "Compétences": "Le directeur fixe le PGFP. La direction financière, les directions chargées des investissements et les services concernés construisent les hypothèses et les projections. Le directeur général de l'ARS intervient dans les conditions prévues par le Code de la santé publique, notamment lorsqu'il examine l'équilibre et peut s'opposer au plan.",
+    "Organisation": "Le PGFP constitue le volet pluriannuel du pilotage financier. Il est articulé avec le programme d'investissement et l'EPRD annuel. Il permet notamment de relier les investissements projetés à leurs effets sur l'exploitation, la capacité d'autofinancement, le fonds de roulement, le besoin en fonds de roulement, la dette et la trésorerie.",
+    "Procédure": "L'établissement élabore ses projections pluriannuelles à partir de ses hypothèses d'activité, de recettes, de charges, d'investissement et de financement. Les opérations d'investissement et engagements concernés sont intégrés au plan. Le directeur fixe le PGFP et celui-ci est transmis et examiné selon les modalités réglementaires. En cas d'opposition du directeur général de l'ARS, le directeur doit établir un nouveau plan tenant compte des motifs d'opposition dans les conditions prévues par le Code.",
+    "Conditions_exceptions": "La durée minimale est de cinq ans glissants. Le PGFP doit couvrir l'exploitation et l'investissement et intégrer les opérations appelées à figurer au programme d'investissement ainsi que les engagements hors bilan prévus par les textes. Il ne se confond pas avec l'EPRD, qui constitue l'acte budgétaire annuel.",
+    "Fondement_juridique": [
+      "Code de la santé publique, dispositions relatives au programme d'investissement et au PGFP.",
+      "Décret n° 2010-425 du 29 avril 2010 relatif à l'organisation financière et à l'investissement immobilier des établissements de santé."
+    ],
+    "Articles_précis": [
+      "CSP, art. L. 6143-7 : programme d'investissement et compétences du directeur.",
+      "CSP, art. R. 6145-65 à R. 6145-69 : PGFP.",
+      "CSP, art. R. 6145-65 : contenu et durée minimale de cinq ans glissants.",
+      "CSP, art. R. 6145-69 : conséquences d'une opposition de l'ARS."
+    ],
+    "Textes_réglementaires": [
+      "Décret n° 2010-425 du 29 avril 2010, notamment ses dispositions relatives au programme d'investissement et au PGFP.",
+      "Cadres réglementaires et documents ministériels applicables au PGFP de l'exercice considéré."
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032133492",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006190852/",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022149672"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [
+      "FIN-003 — EPRD",
+      "FIN-001 — Cadre budgétaire, financier et comptable des établissements publics de santé",
+      "FIN-007 — Compte financier"
+    ],
+    "Mots-clés": [
+      "PGFP",
+      "prospective",
+      "investissement",
+      "CAF",
+      "dette",
+      "trésorerie",
+      "BFR"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-006",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Prévision",
+    "Notion": "État des prévisions de recettes et de dépenses (dénomination complète de l'EPRD)",
+    "Définition_juridique": "L'expression « état des prévisions de recettes et de dépenses » est la dénomination développée de l'acronyme EPRD. Dans les établissements publics de santé, elle désigne l'acte budgétaire annuel par lequel les recettes et les dépenses sont prévues et autorisées. Cette fiche constitue donc une notion de vocabulaire et de compréhension : juridiquement, FIN-006 renvoie au même objet que FIN-003 et ne décrit pas un document distinct.",
+    "Missions": "La notion sert à identifier correctement le document budgétaire annuel et à éviter une confusion entre l'EPRD et les documents de clôture, notamment le compte financier.",
+    "Compétences": "Le directeur fixe les prévisions selon les règles du Code de la santé publique. La direction financière et les services contributeurs préparent les données. Le comptable public intervient dans l'exécution et la comptabilisation des opérations.",
+    "Organisation": "L'état des prévisions est intégré au cycle budgétaire annuel de l'EPS et doit être cohérent avec le PGFP et les orientations de l'établissement.",
+    "Procédure": "Les prévisions sont élaborées, consolidées et arbitrées puis fixées par le directeur conformément aux règles réglementaires. Elles peuvent être modifiées en cours d'exercice par les décisions modificatives prévues par les textes.",
+    "Conditions_exceptions": "Il ne s'agit pas d'un document différent de l'EPRD. Il faut conserver la distinction entre prévision annuelle et réalisation de l'exercice, cette dernière étant notamment retracée dans le compte financier pour les EPS sanitaires.",
+    "Fondement_juridique": [
+      "Code de la santé publique, art. R. 6145-10 et dispositions associées."
+    ],
+    "Articles_précis": [
+      "CSP, art. L. 6145-1.",
+      "CSP, art. R. 6145-10 à R. 6145-20."
+    ],
+    "Textes_réglementaires": [
+      "Arrêté du 16 décembre 2025 fixant les modèles des documents de l'EPRD et des décisions modificatives à compter de l'exercice 2026."
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044922676",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053165953"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [
+      "FIN-003 — EPRD",
+      "FIN-005 — PGFP",
+      "FIN-007 — Compte financier"
+    ],
+    "Mots-clés": [
+      "EPRD",
+      "état des prévisions",
+      "recettes",
+      "dépenses",
+      "budget"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-007",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Clôture",
+    "Notion": "Compte financier des établissements publics de santé",
+    "Définition_juridique": "Le compte financier est le document annuel de clôture et de reddition des comptes des établissements publics de santé. Il est établi conjointement par le directeur et le comptable en fonction dans les conditions prévues par le Code de la santé publique et les textes réglementaires. Il comprend les comptes annuels, notamment le bilan, le compte de résultat et l'annexe, ainsi que les éléments permettant d'analyser l'exécution budgétaire. Il permet de rapprocher le réalisé des prévisions et de retracer la situation financière et patrimoniale de l'établissement.",
+    "Missions": "Le compte financier rend compte de l'exécution de l'exercice, présente les comptes annuels, permet l'analyse des résultats et des principaux équilibres financiers et contribue à la reddition des comptes et à leur contrôle.",
+    "Compétences": "Le directeur et le comptable établissent conjointement le projet de compte financier. Les organes de l'établissement interviennent ensuite dans les conditions prévues par le Code de la santé publique. L'ARS reçoit les documents qui doivent lui être transmis et exerce les compétences que les textes lui attribuent. Lorsque l'établissement est soumis à certification, le certificateur intervient selon le régime applicable.",
+    "Organisation": "La préparation du compte financier repose sur la clôture comptable, les travaux de rapprochement et de justification des comptes et la consolidation des données budgétaires et comptables. Le directeur et le comptable travaillent conjointement à son établissement, dans le respect de la séparation des fonctions d'ordonnateur et de comptable.",
+    "Procédure": "À la clôture de l'exercice, les opérations comptables sont arrêtées et les travaux d'inventaire et de justification sont réalisés. Le directeur et le comptable établissent conjointement le projet de compte financier. Celui-ci est arrêté, présenté et transmis selon les délais et modalités prévus par le Code et les textes réglementaires. Pour 2026, la présentation est régie par l'arrêté du 16 décembre 2025.",
+    "Conditions_exceptions": "Le compte financier concerne les EPS sanitaires. Il ne doit pas être confondu avec l'ERRD des ESSMS relevant du régime EPRD/ERRD. Les établissements soumis à certification des comptes sont également soumis aux travaux et exigences spécifiques du régime de certification.",
+    "Fondement_juridique": [
+      "Code de la santé publique, dispositions relatives à la clôture de l'exercice et au compte financier des EPS.",
+      "Décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique."
+    ],
+    "Articles_précis": [
+      "CSP, art. R. 6145-43 et suivants.",
+      "CSP, art. R. 6145-43 : établissement conjoint du projet de compte financier par le directeur et le comptable.",
+      "CSP, art. R. 6145-45 et suivants : présentation, arrêt et suites du compte financier."
+    ],
+    "Textes_réglementaires": [
+      "Arrêté du 16 décembre 2025 relatif au compte financier des établissements publics de santé, applicable au cadre de présentation à compter de l'exercice 2025 et abrogeant l'arrêté du 19 décembre 2024."
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053051413",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006190851/"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [
+      "FIN-003 — EPRD",
+      "FIN-008 — Certification des comptes",
+      "FIN-009 — Instruction budgétaire et comptable M21",
+      "FIN-010 — Comptable public"
+    ],
+    "Mots-clés": [
+      "compte financier",
+      "clôture",
+      "bilan",
+      "compte de résultat",
+      "annexe",
+      "reddition"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-008",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Certification",
+    "Notion": "Certification des comptes des établissements publics de santé",
+    "Définition_juridique": "La certification des comptes des établissements publics de santé est une procédure d'audit externe destinée à permettre l'expression d'une opinion sur les comptes des établissements entrant dans le champ légal de la certification. Le Code de la santé publique prévoit que la certification peut être assurée par un ou plusieurs commissaires aux comptes ou, pour les établissements dépassant le seuil réglementaire de produits fixé sur la période de référence, par la Cour des comptes. La certification porte sur les comptes et s'inscrit dans une démarche de fiabilisation de l'information financière et de renforcement du contrôle interne.",
+    "Missions": "La certification vise à améliorer la qualité et la fiabilité de l'information financière, à identifier les anomalies significatives et à renforcer les dispositifs de contrôle interne et de maîtrise des risques comptables.",
+    "Compétences": "Le certificateur réalise les travaux d'audit et formule une opinion selon les normes et règles applicables. L'établissement doit mettre à disposition les pièces et informations nécessaires et répondre aux observations. Le directeur et le comptable restent responsables de la préparation et de la tenue des comptes dans leurs domaines respectifs : la certification ne transfère pas leur responsabilité.",
+    "Organisation": "Le régime distingue les établissements soumis à certification et ceux qui ne le sont pas. Selon le périmètre réglementaire, la mission peut relever d'un ou plusieurs commissaires aux comptes ou de la Cour des comptes. La démarche s'appuie notamment sur l'analyse des risques, le contrôle interne, les travaux sur les comptes et la documentation des procédures.",
+    "Procédure": "L'établissement prépare la clôture et les comptes, puis transmet au certificateur les documents et justificatifs requis. Le certificateur réalise ses contrôles, échange avec les responsables de l'établissement, formule ses conclusions et établit son rapport ou son opinion selon le régime applicable. Les éventuelles réserves ou observations doivent être analysées et, le cas échéant, faire l'objet de plans d'action.",
+    "Conditions_exceptions": "Tous les EPS ne sont pas soumis à certification selon les mêmes modalités. Le Code prévoit un critère réglementaire lié au total des produits du compte de résultat principal, constaté lors de l'approbation du compte financier, avec un seuil de 100 millions d'euros pendant trois exercices consécutifs pour l'entrée dans le champ prévu par l'article D. 6145-61-7. La certification s'applique ensuite selon le calendrier fixé par les textes.",
+    "Fondement_juridique": [
+      "Code de la santé publique, art. L. 6145-16 et sous-section réglementaire relative à la certification des comptes.",
+      "Décret n° 2013-1238 du 23 décembre 2013 relatif aux modalités de certification des comptes des EPS.",
+      "Décret n° 2013-1239 du 23 décembre 2013 définissant les EPS soumis à certification."
+    ],
+    "Articles_précis": [
+      "CSP, art. L. 6145-16.",
+      "CSP, art. R. 6145-61-1 à R. 6145-61-6.",
+      "CSP, art. D. 6145-61-7 et D. 6145-61-8."
+    ],
+    "Textes_réglementaires": [
+      "Décret n° 2013-1238 du 23 décembre 2013.",
+      "Décret n° 2013-1239 du 23 décembre 2013.",
+      "Arrêté du 21 octobre 2015 fixant la liste des établissements soumis à certification à compter de l'exercice 2016.",
+      "Arrêté du 15 décembre 2014 relatif au calendrier de remise des comptes et documents nécessaires à la certification."
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006196751/",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000028396554",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000028396592",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031393549"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [
+      "FIN-007 — Compte financier",
+      "FIN-009 — Instruction budgétaire et comptable M21",
+      "FIN-001 — Cadre budgétaire, financier et comptable des établissements publics de santé"
+    ],
+    "Mots-clés": [
+      "certification",
+      "comptes",
+      "audit",
+      "commissaire aux comptes",
+      "Cour des comptes",
+      "contrôle interne"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-009",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Comptabilité",
+    "Notion": "Instruction budgétaire et comptable M21 des établissements publics de santé",
+    "Définition_juridique": "L'instruction budgétaire et comptable M21 constitue le référentiel budgétaire et comptable applicable aux établissements publics de santé. Elle précise notamment la nomenclature des comptes, les règles d'imputation et de comptabilisation, ainsi que les modalités de présentation des documents budgétaires et financiers. La M21 est fixée et actualisée par voie réglementaire. Pour l'exercice 2026, une nouvelle version des tomes I, II et III résulte de l'arrêté du 17 décembre 2025, applicable à compter du 1er janvier 2026.",
+    "Missions": "La M21 assure une présentation homogène des opérations financières des EPS, facilite la tenue et le contrôle des comptes et fournit le référentiel nécessaire à la production des documents budgétaires et comptables.",
+    "Compétences": "Les services de l'établissement utilisent la nomenclature et les règles M21 pour l'engagement, l'exécution et le suivi des opérations relevant de leur compétence. L'ordonnateur produit les éléments nécessaires à l'exécution et à la tenue des comptabilités ; le comptable public tient les comptes dont il a la charge et assure les opérations qui lui sont confiées.",
+    "Organisation": "La M21 s'applique dans le cadre de la séparation entre ordonnateur et comptable. Elle couvre les différents volets de la comptabilité et s'articule avec l'EPRD, l'exécution budgétaire, les opérations d'inventaire et le compte financier.",
+    "Procédure": "L'opération est d'abord identifiée et imputée selon la nomenclature et les règles M21. Les pièces justificatives et contrôles requis sont effectués. L'opération est ensuite enregistrée dans les systèmes de l'établissement et, lorsqu'elle relève du comptable, prise en charge et comptabilisée par celui-ci. Les travaux de clôture et de production du compte financier sont conduits selon les règles du millésime M21 applicable.",
+    "Conditions_exceptions": "Le millésime applicable doit toujours être vérifié, car l'instruction évolue par arrêté. Pour 2026, l'arrêté du 17 décembre 2025 remplace les tomes I et II de l'instruction annexés à l'arrêté du 16 juin 2014 ainsi que le tome III annexé à l'arrêté du 19 décembre 2014, avec application au 1er janvier 2026.",
+    "Fondement_juridique": [
+      "CSP, art. R. 6145-3.",
+      "Arrêtés relatifs à l'instruction budgétaire et comptable M21 des établissements publics de santé."
+    ],
+    "Articles_précis": [
+      "CSP, art. R. 6145-3.",
+      "Arrêté du 17 décembre 2025, art. 1 à 3."
+    ],
+    "Textes_réglementaires": [
+      "Arrêté du 17 décembre 2025 modifiant les arrêtés du 16 juin 2014 et du 19 décembre 2014 relatifs à l'instruction budgétaire et comptable M21 des EPS ; application à compter du 1er janvier 2026.",
+      "Arrêté du 16 juin 2014 relatif à l'instruction budgétaire et comptable M21, dans sa rédaction modifiée.",
+      "Arrêté du 19 décembre 2014 relatif à l'instruction budgétaire et comptable M21, dans sa rédaction modifiée."
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053158748",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006178704/"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [
+      "FIN-001 — Cadre budgétaire, financier et comptable des établissements publics de santé",
+      "FIN-007 — Compte financier",
+      "FIN-003 — EPRD",
+      "FIN-010 — Comptable public"
+    ],
+    "Mots-clés": [
+      "M21",
+      "comptabilité",
+      "nomenclature",
+      "EPS",
+      "imputation",
+      "clôture"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-010",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Acteurs financiers",
+    "Notion": "Comptable public des établissements publics de santé",
+    "Définition_juridique": "Le comptable d'un établissement public de santé est un comptable public de l'État ayant qualité de comptable principal. Il exerce les missions comptables et financières qui lui sont attribuées par le Code de la santé publique et le régime de la gestion budgétaire et comptable publique. Il assure notamment la prise en charge et l'exécution des opérations relevant de sa compétence, la tenue des comptes et les opérations de trésorerie. Il est distinct de l'ordonnateur, conformément au principe de séparation des fonctions.",
+    "Missions": "Le comptable public tient les comptes dont il a la charge, prend en charge les ordres de payer et de recouvrer, exécute les paiements et recouvre les recettes dans les conditions légales, et participe à la qualité des comptes et à la sécurisation des opérations financières.",
+    "Compétences": "Le comptable contrôle les ordres qui lui sont transmis selon les règles de la GBCP, prend en charge les opérations régulières et procède au paiement ou au recouvrement. Lorsqu'il constate une irrégularité justifiant la suspension d'une dépense, il peut la suspendre et, dans les conditions légales, recevoir un ordre de réquisition de l'ordonnateur. Il tient les comptes et réalise les opérations de trésorerie relevant de son poste comptable.",
+    "Organisation": "Le comptable public est fonctionnellement distinct du directeur, qui est l'ordonnateur de l'EPS. Cette séparation constitue une garantie de contrôle croisé. Le comptable est rattaché à l'organisation de la comptabilité publique et agit dans le cadre de son poste comptable. Il ne décide pas de l'opportunité de la dépense : celle-ci relève de l'ordonnateur dans le respect du budget et des règles applicables.",
+    "Procédure": "L'ordonnateur engage, liquide et ordonnnance les dépenses et émet les ordres correspondants. Le comptable reçoit les ordres et pièces justificatives, effectue les contrôles qui lui incombent, prend en charge l'opération lorsqu'elle est régulière et procède au paiement. Pour les recettes, il prend en charge les ordres de recouvrer et assure le recouvrement. En cas de dépense irrégulière, il peut suspendre le paiement ; l'ordonnateur peut, dans les conditions prévues par la loi, utiliser la procédure de réquisition.",
+    "Conditions_exceptions": "Les fonctions d'ordonnateur et de comptable public sont incompatibles. Le comptable n'est pas le décideur de l'opportunité d'une dépense. La suspension d'une dépense et la réquisition sont encadrées par les textes et ne constituent pas un mécanisme permettant de contourner librement les règles budgétaires, comptables ou de contrôle.",
+    "Fondement_juridique": [
+      "CSP, art. L. 6145-8.",
+      "Décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique."
+    ],
+    "Articles_précis": [
+      "CSP, art. L. 6145-8 : statut des comptables des EPS et procédure de réquisition.",
+      "Décret n° 2012-1246, art. 9 : incompatibilité des fonctions d'ordonnateur et de comptable public.",
+      "Décret n° 2012-1246, art. 10 et 11 : fonctions de l'ordonnateur.",
+      "Décret n° 2012-1246, art. 14 : organisation des postes comptables et comptable assignataire.",
+      "Décret n° 2012-1246, dispositions relatives aux contrôles et aux opérations des comptables publics."
+    ],
+    "Textes_réglementaires": [
+      "Décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.",
+      "Décret n° 2012-1247 du 7 novembre 2012 relatif aux dispositions financières et comptables des établissements publics de santé.",
+      "Instruction budgétaire et comptable M21 applicable à l'exercice considéré."
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006125350",
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026602761",
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026602797",
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026602793",
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046790817"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [
+      "FIN-001 — Cadre budgétaire, financier et comptable des établissements publics de santé",
+      "FIN-007 — Compte financier",
+      "FIN-009 — Instruction budgétaire et comptable M21"
+    ],
+    "Mots-clés": [
+      "comptable public",
+      "ordonnateur",
+      "GBCP",
+      "paiement",
+      "recouvrement",
+      "réquisition",
+      "trésorerie"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-011",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "",
+    "Notion": "Ordonnateur",
+    "Définition_juridique": "Dans un établissement public de santé, l'ordonnateur est l'autorité qui constate les droits et obligations de l'établissement, liquide les recettes et émet les ordres de recouvrer, engage les dépenses, les liquide et émet les ordres de payer, dans les conditions prévues par le Code de la santé publique et le régime de la gestion budgétaire et comptable publique. Le directeur de l'établissement est l'ordonnateur principal.",
+    "Missions": "L'ordonnateur assure l'exécution budgétaire de l'établissement, la constatation et la liquidation des recettes et des dépenses et la transmission des ordres nécessaires au comptable public.",
+    "Compétences": "Le directeur, ordonnateur principal, exerce les compétences d'ordonnateur dans le cadre fixé par le CSP et peut déléguer sa signature dans les conditions applicables. Les services gestionnaires préparent les opérations mais n'exercent pas, par eux-mêmes, la compétence d'ordonnateur principal.",
+    "Organisation": "La fonction d'ordonnateur est distincte de celle du comptable public. Les services financiers et gestionnaires préparent et contrôlent les opérations ; le comptable assure la prise en charge et le paiement ou recouvrement selon ses compétences.",
+    "Procédure": "Pour une dépense : engagement ? service fait ? liquidation ? ordre de payer ? prise en charge par le comptable ? paiement. Pour une recette : constatation ? liquidation ? ordre de recouvrer ? prise en charge ? recouvrement.",
+    "Conditions_exceptions": "La séparation ordonnateur/comptable est un principe structurant de la GBCP. Les délégations de signature ne transfèrent pas automatiquement la qualité juridique d'ordonnateur.",
+    "Fondement_juridique": [],
+    "Articles_précis": [],
+    "Textes_réglementaires": [],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/",
+      "https://www.sante.gouv.fr/"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [],
+    "Mots-clés": []
+  },
+  {
+    "Notion_ID": "FIN-012",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "",
+    "Notion": "Directeur des finances",
+    "Définition_juridique": "Le directeur des finances est un cadre de direction ou responsable de la fonction financière de l'établissement chargé d'organiser, sous l'autorité du directeur, la préparation budgétaire, le suivi financier, l'analyse des comptes, la trésorerie, la dette et les travaux de clôture. Il s'agit d'une fonction organisationnelle interne et non d'une catégorie juridique autonome définie par un statut financier particulier.",
+    "Missions": "Il prépare et pilote les travaux budgétaires et financiers, suit l'exécution de l'EPRD, la trajectoire du PGFP, la trésorerie, la dette, les investissements et la qualité des comptes.",
+    "Compétences": "Il coordonne les services financiers et apporte une expertise au directeur et aux instances. Il ne se substitue ni au directeur en qualité d'ordonnateur, ni au comptable public dans ses compétences propres.",
+    "Organisation": "La direction des finances travaille avec la direction générale, les directions métiers, le contrôle de gestion, les achats, le patrimoine et le comptable public.",
+    "Procédure": "Préparation des hypothèses ? construction budgétaire ? suivi mensuel ? analyse des écarts ? propositions d'actions ? actualisation du PGFP et des prévisions ? clôture et analyse financière.",
+    "Conditions_exceptions": "Les intitulés et périmètres de la fonction peuvent varier selon l'organisation de l'établissement. La responsabilité juridique des actes reste celle de l'autorité compétente.",
+    "Fondement_juridique": [],
+    "Articles_précis": [],
+    "Textes_réglementaires": [],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/",
+      "https://www.sante.gouv.fr/"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [],
+    "Mots-clés": []
+  },
+  {
+    "Notion_ID": "FIN-013",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "",
+    "Notion": "Contrôle budgétaire",
+    "Définition_juridique": "Le contrôle budgétaire des établissements publics de santé regroupe les contrôles exercés sur l'EPRD, son exécution et les documents financiers pluriannuels selon les compétences attribuées notamment au directeur général de l'ARS. Il vise à apprécier la soutenabilité et la conformité de la trajectoire financière de l'établissement.",
+    "Missions": "Il permet de surveiller l'équilibre financier, l'exécution budgétaire, la soutenabilité des investissements et de la dette et le respect des règles budgétaires.",
+    "Compétences": "L'établissement prépare et exécute son budget. L'ARS exerce les contrôles prévus par le CSP et peut, dans les cas prévus, demander des mesures correctrices ou s'opposer à certains documents financiers.",
+    "Organisation": "Le contrôle s'articule entre l'établissement, son directeur, sa direction financière et l'ARS. Le comptable apporte les données nécessaires relevant de ses compétences.",
+    "Procédure": "Élaboration et transmission de l'EPRD/PGFP ? examen par l'autorité compétente ? éventuelles observations ou opposition dans les cas prévus ? mise en œuvre des corrections ? suivi de l'exécution.",
+    "Conditions_exceptions": "Les pouvoirs de contrôle et les délais varient selon le document et la situation financière de l'établissement. Il faut distinguer le contrôle budgétaire externe du contrôle interne de gestion.",
+    "Fondement_juridique": [],
+    "Articles_précis": [],
+    "Textes_réglementaires": [],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/",
+      "https://www.sante.gouv.fr/"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [],
+    "Mots-clés": []
+  },
+  {
+    "Notion_ID": "FIN-014",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "",
+    "Notion": "Capacité d'autofinancement (CAF)",
+    "Définition_juridique": "La capacité d'autofinancement (CAF) est un indicateur financier calculé à partir des produits et charges comptables afin d'apprécier les ressources internes que l'établissement peut potentiellement dégager pour financer ses investissements, rembourser sa dette et renforcer sa situation financière. Elle est distincte du résultat comptable et de la trésorerie.",
+    "Missions": "La CAF mesure la capacité de l'établissement à générer des ressources internes et constitue un indicateur central du PGFP et de la soutenabilité de l'investissement et de la dette.",
+    "Compétences": "La direction financière calcule et analyse la CAF à partir des données comptables. La direction générale l'utilise pour les arbitrages financiers et les projets d'investissement.",
+    "Organisation": "Elle est analysée avec le résultat, les amortissements, les provisions, la dette, le fonds de roulement, le BFR et la trésorerie.",
+    "Procédure": "Clôture ou prévision ? détermination du résultat ? retraitement des éléments sans impact de trésorerie selon la méthode retenue ? calcul de la CAF ? analyse de son évolution et de son affectation au financement.",
+    "Conditions_exceptions": "La CAF ne correspond pas à un montant de trésorerie disponible immédiatement. Son calcul doit respecter le cadre M21 et la définition retenue pour l'indicateur.",
+    "Fondement_juridique": [],
+    "Articles_précis": [],
+    "Textes_réglementaires": [],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/",
+      "https://www.sante.gouv.fr/"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [],
+    "Mots-clés": []
+  },
+  {
+    "Notion_ID": "FIN-015",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "",
+    "Notion": "Fonds de roulement",
+    "Définition_juridique": "Le fonds de roulement correspond à l'excédent des ressources stables sur les emplois stables. Il constitue une ressource structurelle permettant notamment de financer une partie du besoin en fonds de roulement et de contribuer à la sécurité financière de l'établissement.",
+    "Missions": "Il permet d'apprécier l'équilibre entre le financement durable et les immobilisations et contribue à l'analyse de la capacité de l'établissement à financer son cycle d'exploitation.",
+    "Compétences": "La direction financière calcule et analyse le fonds de roulement à partir du bilan. La direction générale l'utilise pour apprécier la trajectoire financière et les marges de manœuvre.",
+    "Organisation": "Il est analysé conjointement avec le BFR et la trésorerie selon la relation d'équilibre financier : trésorerie nette = fonds de roulement - besoin en fonds de roulement.",
+    "Procédure": "Établissement du bilan ? classement des ressources et emplois selon leur caractère stable ? calcul du fonds de roulement ? comparaison avec le BFR ? analyse de la trésorerie.",
+    "Conditions_exceptions": "Les méthodes de calcul doivent être cohérentes avec le cadre M21 et les retraitements retenus. Le fonds de roulement ne doit pas être assimilé à des disponibilités immédiatement mobilisables.",
+    "Fondement_juridique": [],
+    "Articles_précis": [],
+    "Textes_réglementaires": [],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/",
+      "https://www.sante.gouv.fr/"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [],
+    "Mots-clés": []
+  },
+  {
+    "Notion_ID": "FIN-016",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "",
+    "Notion": "Besoin en fonds de roulement (BFR)",
+    "Définition_juridique": "Le besoin en fonds de roulement correspond au besoin de financement résultant du décalage entre les opérations d'exploitation générant des créances ou des stocks et celles générant des dettes. Dans un établissement de santé, il dépend notamment des délais de facturation et de recouvrement, des stocks et des délais de paiement.",
+    "Missions": "Le BFR permet d'analyser les besoins de financement liés au cycle d'exploitation et d'anticiper leur incidence sur la trésorerie.",
+    "Compétences": "La direction financière suit les créances, stocks et dettes et analyse les délais. Les services de facturation, achats et gestionnaires contribuent à la maîtrise des composantes du BFR.",
+    "Organisation": "Le BFR est suivi avec le fonds de roulement et la trésorerie. Une hausse des créances ou des stocks peut accroître le besoin ; une hausse des dettes d'exploitation peut, toutes choses égales par ailleurs, le réduire.",
+    "Procédure": "Collecte des postes de bilan ? calcul du BFR ? comparaison avec les périodes précédentes ? analyse des variations ? actions sur facturation, recouvrement, stocks ou délais fournisseurs.",
+    "Conditions_exceptions": "Le BFR hospitalier présente des spécificités liées aux modalités de financement et de facturation des soins. Les indicateurs doivent être interprétés avec le calendrier des recettes et dépenses.",
+    "Fondement_juridique": [],
+    "Articles_précis": [],
+    "Textes_réglementaires": [],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/",
+      "https://www.sante.gouv.fr/"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [],
+    "Mots-clés": []
+  },
+  {
+    "Notion_ID": "FIN-017",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "",
+    "Notion": "Trésorerie",
+    "Définition_juridique": "La trésorerie d'un établissement public de santé correspond à sa position de liquidités résultant des encaissements, décaissements et opérations de financement. Elle permet d'assurer le paiement des dépenses et doit être pilotée conformément aux règles de la gestion budgétaire et comptable publique.",
+    "Missions": "Elle garantit la capacité de paiement de l'établissement, permet d'anticiper les tensions et d'optimiser les besoins de financement à court terme.",
+    "Compétences": "Le comptable public assure les opérations de caisse et de trésorerie relevant de ses compétences. La direction financière établit les prévisions et propose les mesures de pilotage au directeur.",
+    "Organisation": "Le suivi combine prévisions de flux, soldes disponibles, encaissements, paiements, dette, lignes de trésorerie et placements autorisés.",
+    "Procédure": "Prévision glissante ? suivi des encaissements et décaissements ? comparaison au réalisé ? identification des tensions ou excédents ? mobilisation ou remboursement des financements autorisés ? rapprochement.",
+    "Conditions_exceptions": "Les fonds publics ne peuvent être placés ou financés librement comme ceux d'une entreprise privée. Les instruments utilisables sont soumis aux règles applicables aux EPS.",
+    "Fondement_juridique": [],
+    "Articles_précis": [],
+    "Textes_réglementaires": [],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/",
+      "https://www.sante.gouv.fr/"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [],
+    "Mots-clés": []
+  },
+  {
+    "Notion_ID": "FIN-018",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "",
+    "Notion": "Compte à terme (CAT)",
+    "Définition_juridique": "Le compte à terme est un produit de placement bancaire permettant de rémunérer des fonds pendant une durée déterminée. Pour un établissement public de santé, son utilisation est subordonnée au régime juridique des placements autorisés des fonds publics et aux conditions contractuelles applicables.",
+    "Missions": "Le CAT peut rémunérer une disponibilité temporairement excédentaire tout en conservant une échéance et une rémunération connues.",
+    "Compétences": "Le directeur décide dans le cadre des compétences de l'établissement. La direction financière analyse la disponibilité, la durée, le taux et les conditions de sortie. Le comptable public exécute et comptabilise les opérations relevant de sa compétence.",
+    "Organisation": "Le placement est intégré au plan de trésorerie et doit être concilié avec les besoins futurs de liquidité.",
+    "Procédure": "Identification de la disponibilité ? vérification de l'autorisation du placement ? comparaison des offres ? décision ? ouverture ? suivi des intérêts ? échéance ou sortie anticipée selon le contrat.",
+    "Conditions_exceptions": "La disponibilité des fonds doit être compatible avec la durée d'immobilisation. Une sortie anticipée peut entraîner une rémunération recalculée selon les conditions du contrat.",
+    "Fondement_juridique": [],
+    "Articles_précis": [],
+    "Textes_réglementaires": [],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/",
+      "https://www.sante.gouv.fr/"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [],
+    "Mots-clés": []
+  },
+  {
+    "Notion_ID": "FIN-019",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "",
+    "Notion": "Emprunt",
+    "Définition_juridique": "L'emprunt est une opération par laquelle l'établissement obtient des fonds d'un prêteur en contrepartie d'un remboursement du capital et, le cas échéant, d'intérêts et autres frais. Dans les EPS, il constitue principalement un moyen de financement des investissements et son recours est soumis aux règles prudentielles applicables.",
+    "Missions": "Il permet de financer des investissements lorsque les ressources internes et autres financements ne suffisent pas, tout en répartissant le financement dans le temps.",
+    "Compétences": "Le directeur conduit et engage l'établissement dans les conditions de compétence applicables. La direction financière analyse les offres et les risques. Le comptable public assure l'exécution et la comptabilisation des opérations.",
+    "Organisation": "La dette est suivie dans le PGFP et dans les tableaux de dette : capital restant dû, taux, échéances, amortissement, frais et risques financiers.",
+    "Procédure": "Détermination du besoin ? analyse de la capacité d'endettement ? consultation ? analyse des offres ? décision ? contractualisation ? tirage ? suivi des échéances et des risques.",
+    "Conditions_exceptions": "Les règles prudentielles limitent notamment certaines caractéristiques de produits financiers. Le choix d'un emprunt doit être cohérent avec la soutenabilité du PGFP.",
+    "Fondement_juridique": [],
+    "Articles_précis": [],
+    "Textes_réglementaires": [],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/",
+      "https://www.sante.gouv.fr/"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [],
+    "Mots-clés": []
+  },
+  {
+    "Notion_ID": "FIN-020",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "",
+    "Notion": "Amortissements",
+    "Définition_juridique": "L'amortissement est la constatation comptable de la consommation des avantages économiques ou du potentiel de service d'une immobilisation sur sa durée d'utilisation. Dans les établissements publics de santé, il est comptabilisé selon les règles de la M21 et contribue à la représentation fidèle de la valeur comptable des immobilisations.",
+    "Missions": "Il répartit le coût amortissable d'une immobilisation sur sa durée d'utilisation, permet de mesurer la consommation du patrimoine et participe au calcul des équilibres financiers.",
+    "Compétences": "Les services patrimoniaux et financiers déterminent les caractéristiques du bien et sa date de mise en service. Le comptable public assure la comptabilisation conformément aux règles applicables.",
+    "Organisation": "Chaque immobilisation amortissable fait l'objet d'un suivi permettant de connaître sa valeur brute, son amortissement cumulé et sa valeur nette comptable.",
+    "Procédure": "Identification du bien ? détermination de la date de mise en service ? détermination de la durée et du mode d'amortissement selon M21 ? comptabilisation périodique ? suivi jusqu'à la sortie.",
+    "Conditions_exceptions": "Le point de départ et la méthode dépendent des règles M21 et de la nature de l'actif. Les terrains ne sont en principe pas amortis lorsqu'ils ont une durée d'utilisation indéfinie. Les immobilisations en cours sont traitées distinctement avant leur mise en service.",
+    "Fondement_juridique": [],
+    "Articles_précis": [],
+    "Textes_réglementaires": [],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/",
+      "https://www.sante.gouv.fr/"
+    ],
+    "Jurisprudence": [],
+    "Notions_liées": [],
+    "Mots-clés": []
+  },
+  {
+    "Notion_ID": "FIN-021",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Comptabilité",
+    "Notion": "Provisions",
+    "Définition_juridique": "Une provision est comptabilisée lorsqu'une obligation actuelle résultant d'un événement passé entraîne une sortie probable de ressources et que son montant ou son échéance présente une incertitude. Dans les établissements publics de santé, les provisions sont traitées selon les règles de la M21 et concourent à la fiabilité des comptes en rattachant à l'exercice les risques et charges qui répondent aux critères de comptabilisation.",
+    "Missions": "Les provisions permettent de prendre en compte dans les comptes les risques et charges répondant aux critères comptables, d'éviter une présentation artificiellement optimiste du résultat et de fiabiliser les états financiers.",
+    "Compétences": "L'ordonnateur identifie les risques et charges et fournit les éléments permettant leur évaluation. Le comptable public contrôle et comptabilise les opérations relevant de sa compétence. Les services gestionnaires documentent le risque, son origine, son montant estimé et son évolution.",
+    "Organisation": "Les provisions sont suivies dans le cadre de la clôture et du contrôle interne. Elles doivent être individualisées et documentées afin de permettre leur revue périodique.",
+    "Procédure": "Identification du risque ou de la charge ? analyse des critères de provisionnement ? estimation du montant et de l'échéance ? comptabilisation ? revue à chaque clôture ? maintien, ajustement ou reprise lorsque le risque disparaît ou évolue.",
+    "Conditions_exceptions": "Une provision ne peut pas être constituée pour une simple dépense future sans obligation actuelle répondant aux critères comptables. Elle doit être réévaluée à chaque clôture. Les provisions pour gros entretien ou grandes révisions obéissent aux règles spécifiques de la M21.",
+    "Fondement_juridique": [
+      "M21"
+    ],
+    "Articles_précis": [
+      "M21, règles relatives aux provisions"
+    ],
+    "Textes_réglementaires": [
+      "M21 2026",
+      "arrêtés modificatifs"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000036230639",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053158748"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence non pertinente en principe."
+    ],
+    "Notions_liées": [
+      "Dépréciation",
+      "charges",
+      "risques",
+      "clôture"
+    ],
+    "Mots-clés": [
+      "provision",
+      "risque",
+      "charge",
+      "M21"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-022",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Patrimoine",
+    "Notion": "Immobilisations",
+    "Définition_juridique": "Les immobilisations sont des éléments identifiables du patrimoine contrôlés par l'établissement, destinés à servir durablement à son activité et inscrits à l'actif conformément aux règles de la M21. Elles comprennent notamment les immobilisations incorporelles, corporelles et financières. Leur suivi comptable doit être cohérent avec l'inventaire physique et avec les opérations d'acquisition, de mise en service, d'amortissement, de dépréciation et de sortie.",
+    "Missions": "Le suivi des immobilisations permet de connaître le patrimoine durable de l'établissement, d'assurer la fiabilité de l'actif, de calculer les amortissements et de suivre les investissements jusqu'à leur sortie.",
+    "Compétences": "Les services utilisateurs et techniques identifient les biens et leur mise en service. La direction financière organise le suivi. Le comptable public tient les comptes correspondants. L'ordonnateur tient l'inventaire conformément à la réglementation M21.",
+    "Organisation": "L'établissement rapproche l'inventaire physique, les fiches d'immobilisation et les comptes de classe 2. Une fiche d'immobilisation permet notamment de suivre l'identification du bien, son coût, sa date d'acquisition, son amortissement et sa valeur comptable.",
+    "Procédure": "Acquisition ou production ? réception ? détermination de la date de mise en service ? inscription à l'actif ? inventaire ? amortissement et éventuelle dépréciation ? cession, destruction ou autre sortie de l'actif.",
+    "Conditions_exceptions": "La qualification dépend des critères de la M21 et de la nature du bien. Les immobilisations en cours sont traitées distinctement jusqu'à leur mise en service. La méthode des composants peut conduire à suivre séparément certains éléments d'une même immobilisation.",
+    "Fondement_juridique": [
+      "M21"
+    ],
+    "Articles_précis": [
+      "M21, nomenclature et règles relatives aux immobilisations"
+    ],
+    "Textes_réglementaires": [
+      "M21 2026"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000030063515",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053158748"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "Inventaire",
+      "amortissement",
+      "subvention",
+      "patrimoine"
+    ],
+    "Mots-clés": [
+      "immobilisation",
+      "inventaire",
+      "patrimoine",
+      "M21"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-023",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Financement de l'investissement",
+    "Notion": "Subventions d'investissement",
+    "Définition_juridique": "Les subventions d'investissement sont des ressources attribuées à un établissement afin de contribuer au financement d'opérations d'investissement. Leur comptabilisation et leur suivi relèvent de la M21 et des conditions fixées par l'acte attributif : décision, arrêté ou convention. Elles doivent être distinguées des produits destinés au financement courant de l'activité.",
+    "Missions": "Elles permettent de réduire le besoin de financement propre de l'établissement pour des opérations d'investissement et de retracer la participation d'un financeur au financement durable d'un actif ou d'un programme.",
+    "Compétences": "L'établissement identifie la nature et les conditions de l'aide. L'ordonnateur assure les opérations relevant de la décision budgétaire et de la justification. Le comptable public comptabilise la subvention et son traitement ultérieur. Le financeur contrôle l'utilisation conformément à l'acte attributif.",
+    "Organisation": "Le suivi doit relier la subvention à l'opération financée, à son montant, à son financeur, à ses conditions d'utilisation et, lorsque la M21 le prévoit, à sa reprise au résultat selon le rythme applicable.",
+    "Procédure": "Notification ou convention attributive ? constatation de la créance ou encaissement ? comptabilisation selon la M21 ? suivi de l'opération financée ? traitement comptable ultérieur selon la nature de la subvention.",
+    "Conditions_exceptions": "Les conditions d'emploi et de versement dépendent du financeur et du dispositif. Une subvention affectée à un investissement ne doit pas être assimilée à une recette libre d'emploi. Les règles de reprise et de suivi dépendent de la catégorie comptable et de la nature de l'actif financé.",
+    "Fondement_juridique": [
+      "M21",
+      "textes attributifs de la subvention"
+    ],
+    "Articles_précis": [
+      "M21",
+      "décision/arrêté ou convention attributive"
+    ],
+    "Textes_réglementaires": [
+      "M21 2026"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000042841215",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053158748"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "Investissement",
+      "immobilisation",
+      "financement"
+    ],
+    "Mots-clés": [
+      "subvention",
+      "investissement",
+      "M21",
+      "financement"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-024",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Fiscalité / investissement",
+    "Notion": "FCTVA",
+    "Définition_juridique": "Le Fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA) est un mécanisme de compensation forfaitaire de la TVA supportée sur certaines dépenses éligibles par les bénéficiaires limitativement désignés par le Code général des collectivités territoriales. Les établissements publics de santé ne figurent pas, en tant que tels, dans la liste générale des bénéficiaires du FCTVA. Cette distinction est importante pour les EPS : leur qualité d'établissement public ne les rend pas assimilables à une collectivité territoriale bénéficiaire du fonds.",
+    "Missions": "Le FCTVA vise à compenser forfaitairement la TVA supportée sur certaines dépenses éligibles des personnes publiques qui entrent dans son champ. Pour un EPS, l'enjeu principal est de ne pas intégrer à tort une recette de FCTVA dans le financement d'un investissement hospitalier.",
+    "Compétences": "L'éligibilité est déterminée au regard de la liste légale des bénéficiaires et des règles d'éligibilité des dépenses. Les collectivités et organismes éligibles mettent en œuvre les procédures prévues par le CGCT. Un EPS doit, pour ses propres investissements, vérifier les mécanismes fiscaux ou budgétaires réellement applicables plutôt que d'invoquer le FCTVA par analogie.",
+    "Organisation": "Le FCTVA relève du CGCT et non du régime financier spécifique des EPS. Pour un projet hospitalier impliquant plusieurs personnes publiques, il faut identifier le propriétaire de l'actif et le bénéficiaire juridique du fonds avant de déterminer le financement.",
+    "Procédure": "Dépense d'investissement ? vérification du bénéficiaire ? vérification de l'éligibilité de la dépense ? liquidation et attribution selon le régime applicable. Pour un EPS agissant en son nom propre, la vérification conduit en principe à constater son absence du champ général des bénéficiaires.",
+    "Conditions_exceptions": "Les bénéficiaires du FCTVA sont limitativement définis par la loi. Les établissements publics de santé ne doivent pas être confondus avec les collectivités territoriales, leurs groupements ou les CCAS. Les règles ont évolué en 2026 pour certains bénéficiaires, sans avoir pour autant transformé les EPS en bénéficiaires de droit commun.",
+    "Fondement_juridique": [
+      "CGCT L.1615-1 et s."
+    ],
+    "Articles_précis": [
+      "CGCT, art. L. 1615-1 et suivants.",
+      "CGCT, art. L. 1615-2 : liste des bénéficiaires du FCTVA.",
+      "CGCT, art. R. 1615-1 à R. 1615-7 : conditions et modalités d'éligibilité."
+    ],
+    "Textes_réglementaires": [
+      "CGCT",
+      "règles FCTVA"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006149214/",
+      "https://www.haute-savoie.gouv.fr/Actions-de-l-Etat/Collectivites-territoriales/Dotations/FCTVA"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "TVA",
+      "investissement",
+      "collectivités",
+      "éligibilité"
+    ],
+    "Mots-clés": [
+      "FCTVA",
+      "TVA",
+      "investissement",
+      "éligibilité"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-025",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Financement",
+    "Notion": "Dotations de financement des établissements de santé",
+    "Définition_juridique": "Les dotations sont des financements attribués aux établissements de santé selon des dispositifs définis par le Code de la sécurité sociale, les textes réglementaires et, selon les cas, les décisions ou notifications des autorités compétentes. Elles peuvent financer une activité, une mission, une population, un objectif de qualité ou une composante particulière du modèle de financement. Leur contenu ne peut donc pas être réduit à une catégorie comptable unique.",
+    "Missions": "Les dotations complètent ou remplacent, selon les activités, les financements directement liés aux volumes de séjours ou de prestations. Elles permettent notamment de financer des missions ou activités pour lesquelles une tarification purement à l'activité ne serait pas adaptée.",
+    "Compétences": "Le financement est défini par les textes nationaux et, lorsque la loi le prévoit, réparti ou fixé au niveau régional par le directeur général de l'ARS. L'Assurance Maladie intervient dans le financement et la liquidation des sommes. L'établissement identifie les critères, justifie les éléments nécessaires et comptabilise les recettes.",
+    "Organisation": "Les dotations doivent être suivies par dispositif et par exercice. Le service financier rapproche les notifications des montants comptabilisés et des critères de calcul ou de versement. Les modalités d'utilisation dépendent du texte qui crée ou attribue la dotation.",
+    "Procédure": "Définition du dispositif ? identification de l'établissement bénéficiaire et des critères ? calcul ou notification ? versement ? comptabilisation ? suivi des conditions et éventuelles régularisations.",
+    "Conditions_exceptions": "Les règles varient fortement selon la dotation et l'activité. Il faut donc toujours identifier le fondement juridique et l'exercice concerné. Une dotation de financement ne doit pas être confondue avec une subvention d'investissement ou avec un tarif de prestation.",
+    "Fondement_juridique": [
+      "CSS",
+      "CSP L.6145-1"
+    ],
+    "Articles_précis": [
+      "CSP L.6145-1",
+      "CSS selon dispositif"
+    ],
+    "Textes_réglementaires": [
+      "Arrêtés et notifications annuels de financement"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006172518/"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "MIG/MERRI",
+      "forfaits",
+      "financement Assurance Maladie"
+    ],
+    "Mots-clés": [
+      "dotation",
+      "financement",
+      "Assurance Maladie",
+      "ARS"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-026",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Financement de l'activité",
+    "Notion": "Tarification à l'activité (T2A)",
+    "Définition_juridique": "La tarification à l'activité (T2A) désigne le modèle de financement hospitalier fondé, pour les activités entrant dans son champ, sur la valorisation de l'activité produite selon des classifications et tarifs réglementés, complété par des dotations, forfaits et autres composantes selon les activités. En 2026, il est juridiquement inexact de réduire le financement des établissements de santé à un paiement exclusivement au séjour : le système est devenu un modèle mixte et différencié selon les activités.",
+    "Missions": "La T2A relie une partie des recettes à l'activité effectivement réalisée et codée. Elle incite à une description fiable de l'activité et permet de financer les prestations selon des tarifs nationaux et des règles spécifiques.",
+    "Compétences": "Les professionnels produisent les données médicales et administratives nécessaires. Le DIM organise et contrôle le codage PMSI. Les services de facturation valorisent les prestations. L'ATIH produit ou administre les classifications et outils nationaux selon ses missions. L'Assurance Maladie assure la prise en charge et les contrôles financiers dans son champ.",
+    "Organisation": "Le financement combine, selon l'activité, des tarifs de prestations, des forfaits, des dotations et des financements spécifiques. La valorisation dépend de données d'activité fiables, de classifications et des tarifs fixés pour l'exercice.",
+    "Procédure": "Prise en charge ? recueil des données ? codage PMSI ? groupage ou application du dispositif de valorisation ? contrôle qualité ? facturation ou transmission ? paiement et contrôles.",
+    "Conditions_exceptions": "Le périmètre et les modalités de financement diffèrent selon les activités : MCO, HAD, SMR, psychiatrie, urgences et autres dispositifs ne relèvent pas tous du même mécanisme. Les réformes récentes ont renforcé la composante mixte du financement.",
+    "Fondement_juridique": [
+      "CSS, règles de financement des établissements de santé"
+    ],
+    "Articles_précis": [
+      "CSS, art. L. 162-22 et suivants.",
+      "CSS, art. L. 162-22-3-1 et suivants : modalités de financement et tarifs selon les activités.",
+      "CSS, art. R. 162-22 à R. 162-30-1 : dispositions réglementaires relatives au financement des établissements de santé."
+    ],
+    "Textes_réglementaires": [
+      "Arrêtés tarifaires annuels",
+      "règles de financement 2026"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000053285619/2026-01-01",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006172518/"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "GHS",
+      "GHM",
+      "forfaits",
+      "dotations",
+      "PMSI"
+    ],
+    "Mots-clés": [
+      "T2A",
+      "financement",
+      "PMSI",
+      "Assurance Maladie"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-027",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Financement de l'activité",
+    "Notion": "Groupes homogènes de séjours (GHS)",
+    "Définition_juridique": "Le groupe homogène de séjours (GHS) est un forfait de séjour et de soins utilisé dans le financement des activités entrant dans le champ des prestations d'hospitalisation en MCO et, selon les règles applicables, de l'HAD. Le GHS est associé à un groupe homogène de malades (GHM) et correspond au montant forfaitaire applicable à une catégorie de prestations définie par les textes tarifaires. Les tarifs et règles de facturation sont fixés par les textes réglementaires de l'exercice.",
+    "Missions": "Le GHS permet de transformer le classement médico-économique d'un séjour en une valorisation financière. Il constitue un élément central de la facturation des séjours MCO concernés.",
+    "Compétences": "Le DIM assure la qualité des données médicales et le groupage. Les services de facturation utilisent la classification et les tarifs applicables. L'Assurance Maladie prend en charge les prestations selon les règles du CSS et contrôle les facturations.",
+    "Organisation": "Les données du séjour conduisent à un GHM ; le tarif et les règles réglementaires permettent ensuite de déterminer le GHS et les éventuels suppléments ou prestations facturables en sus.",
+    "Procédure": "Recueil des données ? codage ? groupage en GHM ? détermination du GHS et des éventuels suppléments ? facturation ? contrôles.",
+    "Conditions_exceptions": "Le principe est celui d'un forfait par séjour, mais les textes prévoient des exceptions permettant plusieurs GHS dans certaines situations et la facturation de suppléments. Les règles tarifaires doivent être vérifiées pour chaque exercice.",
+    "Fondement_juridique": [
+      "CSS",
+      "arrêté tarifaire GHS"
+    ],
+    "Articles_précis": [
+      "CSS, art. R. 162-33-1 : catégories de prestations prises en charge par les forfaits.",
+      "Arrêté du 19 février 2015 modifié, art. 1 : forfaits de séjour et de soins dénommés GHS.",
+      "Arrêté du 19 février 2015 modifié, art. 5 à 7 : règles de facturation des GHS et suppléments."
+    ],
+    "Textes_réglementaires": [
+      "Arrêté annuel tarifaire",
+      "classification GHM"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053326776",
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053326750"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "GHM",
+      "PMSI",
+      "T2A",
+      "facturation"
+    ],
+    "Mots-clés": [
+      "GHS",
+      "GHM",
+      "PMSI",
+      "tarif"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-028",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Coopération territoriale",
+    "Notion": "GHT et financement",
+    "Définition_juridique": "Le groupement hospitalier de territoire (GHT) est une organisation territoriale instituée par le Code de la santé publique permettant aux établissements publics de santé de mettre en œuvre une stratégie commune et graduée de prise en charge. Le GHT n'est pas, par lui-même, une personne morale : un établissement partie est désigné comme établissement support et assure certaines fonctions mutualisées. Le financement du GHT repose notamment sur les contributions des établissements parties et sur les flux liés aux fonctions et activités mutualisées.",
+    "Missions": "Le dispositif permet de mutualiser certaines fonctions, d'organiser des activités communes et de soutenir une stratégie territoriale. Sur le plan financier, il organise la prise en charge des coûts des fonctions mutualisées et des investissements communs selon les règles applicables.",
+    "Compétences": "Les établissements parties contribuent au financement des fonctions et activités mutualisées. L'établissement support assure les fonctions qui lui sont confiées et porte les opérations relevant de son périmètre. Les instances du GHT interviennent dans les conditions prévues par la convention constitutive et le CSP.",
+    "Organisation": "Les flux sont organisés autour de la convention constitutive, du compte de résultat annexe G et des règles de contribution prévues par les textes. Pour certaines fonctions, une clé de répartition détermine la contribution des établissements parties.",
+    "Procédure": "Convention constitutive ? désignation de l'établissement support ? organisation des fonctions mutualisées ? détermination des contributions ? émission et comptabilisation des flux ? suivi et régularisation.",
+    "Conditions_exceptions": "Le GHT ne doit pas être confondu avec une fusion d'établissements. Il ne dispose pas d'une personnalité morale propre dans le régime de droit commun du CSP. Les règles de contribution diffèrent selon la nature de l'opération ; notamment, la clé réglementaire n'est pas obligatoire pour répartir certaines charges d'investissement réalisées en commun.",
+    "Fondement_juridique": [
+      "CSP L.6132-1 et s."
+    ],
+    "Articles_précis": [
+      "CSP, art. L. 6132-1 à L. 6132-7.",
+      "CSP, art. R. 6132-1 et suivants.",
+      "Arrêté du 10 novembre 2016 relatif à la contribution des établissements parties aux fonctions et activités mutualisées du GHT."
+    ],
+    "Textes_réglementaires": [
+      "Convention constitutive",
+      "textes GHT"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000031913559",
+      "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033390924"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "Établissement support",
+      "convention constitutive",
+      "fonctions mutualisées"
+    ],
+    "Mots-clés": [
+      "GHT",
+      "établissement support",
+      "mutualisation",
+      "financement"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-029",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Financement des missions",
+    "Notion": "Missions d'intérêt général (MIG)",
+    "Définition_juridique": "Les missions d'intérêt général (MIG) correspondent à des missions ou activités identifiées par les textes de financement des établissements de santé et financées selon des modalités spécifiques. Leur financement est distinct de la seule valorisation des séjours et peut prendre la forme de dotations ou d'autres mécanismes prévus pour les activités concernées. Depuis les réformes du financement, les catégories et modalités de financement doivent être appréciées dans leur rédaction en vigueur pour l'exercice considéré.",
+    "Missions": "Les MIG permettent de financer des activités ou missions qui répondent à un intérêt collectif et dont le coût ou les caractéristiques ne sont pas correctement retracés par les seuls tarifs d'activité. Elles peuvent concerner notamment certaines populations, activités de recours, missions de santé publique ou dispositifs spécifiques définis par les textes.",
+    "Compétences": "L'État fixe le cadre national du financement. Les ministres chargés de la Santé et de la Sécurité sociale arrêtent les règles et montants nationaux lorsque les textes le prévoient. Le directeur général de l'ARS fixe certaines dotations individuelles selon les critères réglementaires. L'établissement justifie les missions et renseigne les données nécessaires.",
+    "Organisation": "Les MIG doivent être identifiées par leur catégorie réglementaire, leurs critères d'éligibilité et les modalités de calcul ou d'attribution. Les établissements doivent conserver les éléments permettant de justifier la réalisation de la mission et l'utilisation des financements.",
+    "Procédure": "Identification de la mission ? vérification de l'éligibilité ? collecte et transmission des données ? calcul ou notification du financement ? comptabilisation ? suivi et contrôle.",
+    "Conditions_exceptions": "Les anciennes références à une « dotation MIGAC » doivent être utilisées avec prudence : le droit du financement hospitalier a été réformé et les catégories de financement diffèrent désormais selon les activités. Il faut donc vérifier le dispositif applicable en 2026.",
+    "Fondement_juridique": [
+      "CSS L.162-22 et s., selon catégorie d'activité"
+    ],
+    "Articles_précis": [
+      "CSS, art. L. 162-22 et suivants, selon l'activité concernée.",
+      "CSS, art. D. 162-6 à D. 162-8 : missions d'intérêt général et modalités de financement, dans le périmètre applicable.",
+      "Textes annuels fixant les listes et modalités de financement des missions d'intérêt général."
+    ],
+    "Textes_réglementaires": [
+      "Arrêtés/notifications de financement",
+      "nomenclatures annuelles"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000051284949",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043892252"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "MERRI",
+      "dotations",
+      "recherche",
+      "enseignement"
+    ],
+    "Mots-clés": [
+      "MIG",
+      "mission intérêt général",
+      "financement"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-030",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Financement recherche/enseignement",
+    "Notion": "Missions d'enseignement, de recherche, de référence et d'innovation (MERRI)",
+    "Définition_juridique": "Les missions d'enseignement, de recherche, de référence et d'innovation (MERRI) correspondent à une composante spécifique du financement des établissements de santé participant à ces missions. En 2026, le ministère de la Santé présente les MERRI comme des dotations budgétaires spécifiques inscrites dans le financement des missions d'intérêt général et d'aide à la contractualisation, notamment pour les établissements de médecine, chirurgie et obstétrique. Elles soutiennent les activités d'enseignement, de recherche, de référence et d'innovation qui ne sont pas couvertes par les seuls tarifs de séjour.",
+    "Missions": "Les MERRI contribuent au financement des charges spécifiques liées à l'enseignement, à la recherche, aux missions de référence et à l'innovation. Elles soutiennent notamment les fonctions hospitalo-universitaires et certaines activités de recherche et d'innovation.",
+    "Compétences": "Le ministère fixe le cadre national et les règles de financement. Les établissements déclarent ou produisent les données nécessaires. L'ARS intervient dans la répartition et la notification des dotations selon les compétences qui lui sont attribuées. Les équipes de recherche, directions financières et directions des affaires médicales contribuent à la justification des activités.",
+    "Organisation": "Le financement distingue les différentes composantes et critères prévus par les textes et les campagnes annuelles. Les établissements doivent assurer la traçabilité des données déclarées et rapprocher les montants notifiés des écritures comptables.",
+    "Procédure": "Collecte des données et critères ? contrôle et validation ? calcul ou notification ? versement ? comptabilisation ? suivi des crédits et justification des activités.",
+    "Conditions_exceptions": "Le périmètre et les modalités de calcul évoluent avec les réformes du financement hospitalier. Il faut donc se référer aux textes et campagnes de financement de l'exercice 2026 plutôt qu'à une ancienne définition figée de la MIGAC.",
+    "Fondement_juridique": [
+      "CSS",
+      "règles de financement des activités concernées"
+    ],
+    "Articles_précis": [
+      "CSS, dispositions relatives au financement des missions d'intérêt général et des activités d'enseignement, de recherche, de référence et d'innovation.",
+      "Textes annuels de financement et de répartition des MERRI applicables à l'exercice 2026."
+    ],
+    "Textes_réglementaires": [
+      "Arrêtés et circulaires/notes de financement annuels"
+    ],
+    "Sources_officielles": [
+      "https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/merri",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006172518/"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "MIG",
+      "recherche",
+      "enseignement",
+      "innovation"
+    ],
+    "Mots-clés": [
+      "MERRI",
+      "recherche",
+      "enseignement",
+      "innovation"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-031",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Financement",
+    "Notion": "Forfaits",
+    "Définition_juridique": "Un forfait est une modalité de financement ou de facturation déterminée à l'avance pour une prestation, une activité, un séjour ou une mission définie par les textes. En financement hospitalier, il peut compléter ou remplacer une tarification strictement proportionnelle à un acte ou à un séjour. Sa portée dépend toujours du dispositif juridique qui l'institue.",
+    "Missions": "Les forfaits permettent de financer des activités dont les coûts ou caractéristiques justifient une rémunération prédéterminée. Ils apportent de la visibilité financière et peuvent soutenir des activités transversales ou des prises en charge spécifiques.",
+    "Compétences": "L'établissement identifie le forfait applicable et renseigne les éléments permettant son calcul ou sa facturation. L'Assurance Maladie assure, selon le dispositif, la prise en charge. L'ARS intervient pour les dotations ou financements relevant de sa compétence. Les ministères fixent les règles nationales.",
+    "Organisation": "L'organisation dépend du forfait : forfait de séjour, forfait annuel, forfait par patient, forfait lié à une activité ou à une mission. Il faut toujours identifier le texte qui définit son assiette, son montant et ses conditions.",
+    "Procédure": "Identification de la prestation ou activité ? vérification de l'éligibilité ? calcul ou détermination du forfait ? facturation ou notification ? comptabilisation ? contrôle.",
+    "Conditions_exceptions": "Il n'existe pas de régime juridique unique des forfaits. Les conditions, montants, bénéficiaires et règles de cumul sont propres à chaque dispositif. Un forfait ne doit pas être confondu avec un GHS ou une dotation sans vérifier son fondement juridique.",
+    "Fondement_juridique": [
+      "CSS",
+      "textes tarifaires"
+    ],
+    "Articles_précis": [
+      "CSS et arrêtés tarifaires annuels"
+    ],
+    "Textes_réglementaires": [
+      "Arrêtés tarifaires 2026"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006172518/"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "GHS",
+      "dotations",
+      "T2A",
+      "forfaits annuels"
+    ],
+    "Mots-clés": [
+      "forfait",
+      "financement",
+      "tarification"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-032",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Recettes",
+    "Notion": "Recettes hospitalières",
+    "Définition_juridique": "Les recettes hospitalières regroupent les produits et ressources enregistrés par un établissement public de santé au titre de son activité, de ses financements et de ses autres opérations. Elles comprennent notamment les recettes liées aux prestations de soins, les dotations et forfaits, les subventions, les produits financiers et les autres produits prévus par la réglementation. Leur comptabilisation relève de la M21 et leur recouvrement s'inscrit dans la séparation entre ordonnateur et comptable.",
+    "Missions": "Les recettes assurent le financement du fonctionnement et de l'investissement de l'établissement. Leur suivi permet de sécuriser la trésorerie, de mesurer l'activité et de fiabiliser le résultat.",
+    "Compétences": "L'ordonnateur constate et liquide les recettes et émet les titres ou données nécessaires. Les services de facturation produisent les éléments de facturation. Le comptable public prend en charge les titres et assure le recouvrement. La direction financière suit les encaissements et les restes à recouvrer.",
+    "Organisation": "La chaîne recettes associe les services producteurs, la facturation, l'ordonnateur, le comptable et les fonctions de contrôle. La qualité des recettes dépend de la fiabilité des données d'activité, de la liquidation et de l'identification du débiteur.",
+    "Procédure": "Fait générateur ? liquidation ? émission du titre ou facturation ? prise en charge par le comptable ? recouvrement ? encaissement ? rapprochement et suivi.",
+    "Conditions_exceptions": "Les règles varient selon l'origine de la recette : Assurance Maladie, patient, mutuelle, État, ARS, collectivité, autre financeur. Une recette ne peut être comptabilisée ou recouvrée que sur un fondement permettant d'établir la créance.",
+    "Fondement_juridique": [
+      "M21",
+      "CSP",
+      "CSS selon origine"
+    ],
+    "Articles_précis": [
+      "M21",
+      "CSP L.6145-1 et s."
+    ],
+    "Textes_réglementaires": [
+      "M21",
+      "EPRD",
+      "textes de financement"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006178704/",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006172518/"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "Créances",
+      "recouvrement",
+      "tarification",
+      "dotations"
+    ],
+    "Mots-clés": [
+      "recettes",
+      "facturation",
+      "recouvrement",
+      "M21"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-033",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Dépenses",
+    "Notion": "Dépenses hospitalières",
+    "Définition_juridique": "Les dépenses hospitalières correspondent aux opérations qui entraînent une consommation de ressources ou un décaissement pour l'établissement, notamment les charges de fonctionnement, les dépenses de personnel, les achats, les investissements et les opérations financières. Leur exécution relève du cadre budgétaire et comptable des EPS et de la séparation entre ordonnateur et comptable.",
+    "Missions": "Elles permettent à l'établissement d'assurer ses missions de soins, d'enseignement, de recherche, de support et d'investissement. Leur pilotage vise à respecter les autorisations budgétaires, maîtriser les coûts et sécuriser les paiements.",
+    "Compétences": "Le directeur est ordonnateur. Les services prescripteurs expriment et suivent les besoins. Les fonctions achats et marchés sécurisent les engagements. Le comptable public contrôle les éléments relevant de sa compétence et effectue le paiement lorsque les conditions sont réunies.",
+    "Organisation": "La dépense est suivie depuis l'engagement jusqu'au paiement. Les crédits, le service fait, les pièces justificatives, les marchés et les délais de paiement sont contrôlés selon leur nature.",
+    "Procédure": "Engagement ? service fait ? liquidation ? mandatement ou émission de l'ordre de payer ? contrôle du comptable ? paiement. Les opérations d'investissement suivent en outre les règles de suivi des immobilisations.",
+    "Conditions_exceptions": "Les dépenses doivent respecter les crédits et les règles de commande publique, de droit budgétaire et de comptabilité. Une dépense peut être comptabilisée sans correspondre à un décaissement immédiat ; il faut distinguer charge, dette et paiement.",
+    "Fondement_juridique": [
+      "M21",
+      "GBCP",
+      "CSP"
+    ],
+    "Articles_précis": [
+      "M21",
+      "CSP L.6145-1 et s."
+    ],
+    "Textes_réglementaires": [
+      "M21",
+      "EPRD"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/eli/decret/2012/11/7/EFIX1205948D/jo/texte",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006178704/"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence administrative et financière selon cas."
+    ],
+    "Notions_liées": [
+      "Crédits",
+      "engagement",
+      "service fait",
+      "mandat"
+    ],
+    "Mots-clés": [
+      "dépenses",
+      "mandat",
+      "service fait",
+      "crédits"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-034",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Investissement",
+    "Notion": "Investissement hospitalier",
+    "Définition_juridique": "L'investissement hospitalier regroupe les opérations destinées à acquérir, produire ou améliorer des actifs durables nécessaires aux missions de l'établissement, notamment les bâtiments, équipements biomédicaux, installations, systèmes d'information et immobilisations incorporelles. Il est programmé dans le cadre du programme d'investissement et du PGFP et comptabilisé selon la M21.",
+    "Missions": "Il permet de maintenir et développer le patrimoine, moderniser l'offre de soins, renouveler les équipements et adapter les infrastructures aux besoins de l'établissement.",
+    "Compétences": "Le directeur pilote la politique d'investissement. Les directions techniques, biomédicales, informatiques, achats et finances construisent et suivent les opérations. Le conseil de surveillance intervient dans les cas prévus par le CSP. Le comptable assure la comptabilisation des opérations.",
+    "Organisation": "Les opérations sont priorisées selon leur intérêt médical, technique, réglementaire et financier. Leur financement est rapproché de la capacité d'autofinancement, des subventions, de l'emprunt et des autres ressources.",
+    "Procédure": "Identification du besoin ? étude et programmation ? arbitrage ? inscription au programme d'investissement et au PGFP ? financement ? commande et réalisation ? réception ? mise en service ? suivi comptable.",
+    "Conditions_exceptions": "Une dépense n'est pas automatiquement une immobilisation : sa qualification dépend de la M21. Certaines dépenses d'entretien ou de fonctionnement restent en charges. Les opérations en cours sont suivies distinctement avant leur mise en service.",
+    "Fondement_juridique": [
+      "M21",
+      "CSP L.6143-7",
+      "R.6145-65"
+    ],
+    "Articles_précis": [
+      "L.6143-7",
+      "R.6145-65 et M21"
+    ],
+    "Textes_réglementaires": [
+      "PGFP",
+      "M21",
+      "EPRD"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048146477",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006190852/"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "Immobilisations",
+      "subventions",
+      "emprunt",
+      "CAF"
+    ],
+    "Mots-clés": [
+      "investissement",
+      "immobilisation",
+      "PGFP",
+      "financement"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-035",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Prospective",
+    "Notion": "Plan global de financement pluriannuel (PGFP)",
+    "Définition_juridique": "Le plan global de financement pluriannuel (PGFP) est la trajectoire financière pluriannuelle de l'établissement public de santé. Il présente sur au moins cinq ans glissants les prévisions d'exploitation et d'investissement et permet d'apprécier l'évolution de la capacité d'autofinancement, du fonds de roulement, du besoin en fonds de roulement, de la trésorerie et de l'endettement. Il est le principal outil de soutenabilité des projets d'investissement.",
+    "Missions": "Le PGFP permet de vérifier qu'un projet d'investissement et son financement sont compatibles avec la trajectoire financière de l'établissement. Il sert à arbitrer les investissements, les emprunts et les autres besoins de financement.",
+    "Compétences": "Le directeur fixe le PGFP. La direction financière construit les projections avec les directions concernées. L'ARS exerce les compétences de contrôle et d'opposition prévues par le CSP.",
+    "Organisation": "Le PGFP rapproche les hypothèses d'activité, de recettes et de charges des projets d'investissement et des modalités de financement. Il doit être cohérent avec l'EPRD annuel et actualisé pour intégrer les nouvelles hypothèses.",
+    "Procédure": "Projection de l'exploitation ? programmation des investissements ? détermination des financements ? projection de CAF, dette, BFR, fonds de roulement et trésorerie ? arbitrages ? fixation et transmission du PGFP ? actualisation.",
+    "Conditions_exceptions": "Le PGFP doit couvrir au minimum cinq ans glissants. Il ne constitue pas une autorisation annuelle de dépenses : cette fonction relève notamment de l'EPRD. Toute analyse doit utiliser le cadre PGFP en vigueur pour l'exercice.",
+    "Fondement_juridique": [
+      "CSP R.6145-65 et s."
+    ],
+    "Articles_précis": [
+      "CSP, art. R. 6145-65 à R. 6145-69."
+    ],
+    "Textes_réglementaires": [
+      "Cadre PGFP 2026"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006190852/"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "PGFP",
+      "EPRD",
+      "dette",
+      "CAF"
+    ],
+    "Mots-clés": [
+      "PGFP",
+      "financement",
+      "prospective",
+      "investissement"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-036",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Analyse",
+    "Notion": "Analyse financière hospitalière",
+    "Définition_juridique": "L'analyse financière hospitalière est une démarche de diagnostic fondée sur les comptes, les données budgétaires, les flux et les trajectoires financières de l'établissement. Elle permet d'apprécier sa performance, ses équilibres, sa capacité de financement et sa soutenabilité. Elle n'est pas une notion juridique définie par un article unique mais un outil de gestion construit à partir des données comptables et budgétaires réglementaires.",
+    "Missions": "Elle aide la direction à comprendre les déterminants du résultat, de la capacité d'autofinancement, de la trésorerie et de l'endettement et à tester la soutenabilité des décisions.",
+    "Compétences": "La direction financière réalise ou coordonne l'analyse. La direction générale utilise les diagnostics pour arbitrer. Le contrôle de gestion fournit les données d'activité et de coûts. Les directions opérationnelles contribuent à l'interprétation des écarts.",
+    "Organisation": "L'analyse combine compte de résultat, bilan, tableau de financement, EPRD, compte financier et PGFP. Les ratios sont interprétés dans le contexte hospitalier et comparés dans le temps ou à des établissements comparables.",
+    "Procédure": "Collecte des données ? contrôles et retraitements ? calcul des indicateurs ? analyse des écarts et tendances ? diagnostic ? scénarios ? recommandations ? suivi.",
+    "Conditions_exceptions": "Il n'existe pas de ratio unique permettant de juger un EPS. Les indicateurs doivent être interprétés ensemble, notamment marge brute, CAF, dette, trésorerie, BFR, fonds de roulement et capacité de financement des investissements.",
+    "Fondement_juridique": [
+      "M21",
+      "PGFP",
+      "règles de gestion"
+    ],
+    "Articles_précis": [
+      "Pas de définition légale unique",
+      "fondée sur données comptables et budgétaires"
+    ],
+    "Textes_réglementaires": [
+      "M21",
+      "PGFP",
+      "compte financier"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053158748"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence non pertinente en principe."
+    ],
+    "Notions_liées": [
+      "CAF",
+      "marge brute",
+      "dette",
+      "trésorerie",
+      "BFR"
+    ],
+    "Mots-clés": [
+      "analyse financière",
+      "ratios",
+      "diagnostic",
+      "hôpital"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-037",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Analyse",
+    "Notion": "Tableau de financement",
+    "Définition_juridique": "Le tableau de financement est un document comptable permettant d'analyser les ressources et emplois ayant contribué aux variations de la situation financière de l'établissement. Dans le cadre M21 et du compte financier, il permet notamment d'apprécier le financement des investissements, l'évolution de l'endettement et la contribution de la capacité d'autofinancement.",
+    "Missions": "Il permet de comprendre comment l'établissement finance ses investissements et comment évoluent ses ressources financières et ses emplois. Il complète l'analyse du bilan et du compte de résultat.",
+    "Compétences": "Le comptable produit les données comptables. La direction financière les analyse et les rapproche des opérations d'investissement, de dette et de trésorerie. Le directeur utilise le tableau pour le pilotage financier.",
+    "Organisation": "Le tableau est établi à partir des données de clôture et met en relation les ressources et emplois de l'exercice. Il doit être distingué d'un plan de trésorerie, qui porte sur les encaissements et décaissements selon leur calendrier.",
+    "Procédure": "Clôture comptable ? production du tableau selon la M21 ? contrôle des données ? rapprochement avec les comptes et opérations d'investissement ? analyse des ressources et emplois.",
+    "Conditions_exceptions": "Le format et les rubriques dépendent du cadre M21 applicable à l'exercice. Il ne doit pas être confondu avec le PGFP, qui est prospectif, ni avec le plan de trésorerie, qui est un outil de prévision des flux de liquidités.",
+    "Fondement_juridique": [
+      "M21"
+    ],
+    "Articles_précis": [
+      "M21",
+      "documents du compte financier"
+    ],
+    "Textes_réglementaires": [
+      "M21 2026",
+      "compte financier"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053158748"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence non pertinente en principe."
+    ],
+    "Notions_liées": [
+      "Compte financier",
+      "CAF",
+      "investissement",
+      "dette"
+    ],
+    "Mots-clés": [
+      "tableau financement",
+      "emplois",
+      "ressources",
+      "M21"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-038",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Pilotage",
+    "Notion": "Contrôle de gestion financière",
+    "Définition_juridique": "Le contrôle de gestion financière est un dispositif interne de pilotage qui transforme les données budgétaires, comptables et d'activité en informations utiles à la décision. Il repose notamment sur le suivi des objectifs, des coûts, des recettes, des dépenses et des écarts. Il n'est pas un contrôle réglementaire exercé par une autorité extérieure.",
+    "Missions": "Il aide à maîtriser les coûts, expliquer les écarts entre prévisions et réalisations, améliorer la performance et éclairer les arbitrages de la direction.",
+    "Compétences": "Le contrôle de gestion travaille avec la direction financière, la direction générale, les pôles et services. Il exploite les données produites par les systèmes comptables, budgétaires et médico-économiques. Les responsables opérationnels participent au dialogue de gestion.",
+    "Organisation": "Le dispositif s'appuie sur des indicateurs et tableaux de bord adaptés aux activités. Les analyses doivent relier activité, moyens, coûts, recettes et qualité plutôt que se limiter à une lecture comptable.",
+    "Procédure": "Définition des objectifs ? choix des indicateurs ? collecte des données ? comparaison prévision/réalisation ? analyse des écarts ? dialogue avec les responsables ? actions correctrices ? suivi.",
+    "Conditions_exceptions": "Les méthodes sont propres à l'établissement et doivent être adaptées au service public hospitalier. Le contrôle de gestion ne remplace ni le contrôle budgétaire réglementaire, ni les contrôles du comptable, ni les procédures de certification.",
+    "Fondement_juridique": [
+      "Organisation interne",
+      "EPRD",
+      "M21"
+    ],
+    "Articles_précis": [
+      "Pas de définition juridique unique",
+      "s'appuie sur le cadre budgétaire et comptable"
+    ],
+    "Textes_réglementaires": [
+      "EPRD",
+      "PGFP",
+      "outils de pilotage"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006178704/"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence non pertinente en principe."
+    ],
+    "Notions_liées": [
+      "Dialogue de gestion",
+      "performance",
+      "budget"
+    ],
+    "Mots-clés": [
+      "contrôle gestion",
+      "coûts",
+      "écarts",
+      "pilotage"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-039",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Tarification",
+    "Notion": "Tarification hospitalière",
+    "Définition_juridique": "La tarification hospitalière désigne les règles permettant de déterminer les tarifs, forfaits ou montants servant à financer ou facturer les prestations hospitalières. Elle dépend de l'activité, du statut de l'établissement, du dispositif de financement et des textes applicables à l'exercice. Les tarifs nationaux sont fixés ou encadrés par les textes réglementaires, puis appliqués aux données d'activité.",
+    "Missions": "Elle permet de transformer l'activité réalisée en recettes selon les règles de financement. Elle constitue donc un lien entre activité, codage, financement et facturation.",
+    "Compétences": "Les ministères définissent le cadre national et publient les tarifs. L'Assurance Maladie assure la prise en charge et les contrôles dans son champ. Les établissements codent, valorisent et facturent. L'ARS intervient pour les financements relevant de sa compétence.",
+    "Organisation": "La tarification varie selon les activités : MCO, HAD, SMR, psychiatrie, urgences et autres dispositifs. Le tarif doit être associé au bon dispositif, à la période de validité et aux règles de facturation.",
+    "Procédure": "Publication des tarifs ? réalisation de l'activité ? recueil et codage ? valorisation ? facturation ou notification ? contrôle ? encaissement.",
+    "Conditions_exceptions": "Il n'existe pas un tarif hospitalier unique. Les tarifs et modalités de financement sont révisés et différenciés selon les activités et les réformes. Une fiche doit toujours préciser l'exercice et le champ tarifaire.",
+    "Fondement_juridique": [
+      "CSS",
+      "textes tarifaires annuels"
+    ],
+    "Articles_précis": [
+      "CSS L.162-22 et s.",
+      "arrêtés tarifaires"
+    ],
+    "Textes_réglementaires": [
+      "Arrêtés tarifaires annuels 2026"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006172518/"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "T2A",
+      "GHS",
+      "forfaits",
+      "facturation"
+    ],
+    "Mots-clés": [
+      "tarification",
+      "tarif",
+      "GHS",
+      "facturation"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-040",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Recouvrement",
+    "Notion": "Recouvrement des recettes hospitalières",
+    "Définition_juridique": "Le recouvrement est l'ensemble des opérations destinées à obtenir le paiement des créances d'un établissement public de santé. Il intervient après la constatation et l'émission régulière de la créance et relève principalement du comptable public. Le recouvrement s'effectue selon les règles de la gestion budgétaire et comptable publique et, selon la nature du débiteur, selon des procédures spécifiques.",
+    "Missions": "Il transforme les créances en encaissements, réduit les restes à recouvrer et contribue à la trésorerie et à la fiabilité des comptes.",
+    "Compétences": "L'ordonnateur est responsable de l'émission régulière des titres et de la qualité des informations. Le comptable public prend en charge les titres et réalise les diligences de recouvrement. Les services gestionnaires contribuent à l'identification du débiteur et au traitement des réclamations.",
+    "Organisation": "Le recouvrement comprend une phase amiable puis, lorsque les conditions sont réunies, des mesures de recouvrement forcé. Le suivi des restes à recouvrer permet de prioriser les créances et d'identifier les risques d'irrécouvrabilité.",
+    "Procédure": "Liquidation de la créance ? émission du titre ? prise en charge par le comptable ? encaissement spontané ou relance ? recouvrement amiable ? mesures forcées si nécessaire ? apurement des créances irrécouvrables selon les règles.",
+    "Conditions_exceptions": "Les délais et moyens de recouvrement dépendent de la nature de la créance et du débiteur. Les règles de prescription, les procédures collectives et les admissions en non-valeur doivent être appréciées au cas par cas. Le comptable ne peut pas recouvrer une créance irrégulièrement établie par l'ordonnateur.",
+    "Fondement_juridique": [
+      "GBCP",
+      "CSP",
+      "M21"
+    ],
+    "Articles_précis": [
+      "Décret n° 2012-1246 du 7 novembre 2012, dispositions relatives aux ordres de recouvrer et au recouvrement.",
+      "CSP, art. L. 6145-8 et dispositions réglementaires relatives au recouvrement des créances des EPS."
+    ],
+    "Textes_réglementaires": [
+      "M21",
+      "procédures DGFiP"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/eli/decret/2012/11/7/EFIX1205948D/jo/texte",
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044926593"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence financière/administrative à documenter."
+    ],
+    "Notions_liées": [
+      "Créances",
+      "facturation",
+      "titres",
+      "admissions en non-valeur"
+    ],
+    "Mots-clés": [
+      "recouvrement",
+      "créances",
+      "DGFiP",
+      "facturation"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-041",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Créances",
+    "Notion": "Créances hospitalières",
+    "Définition_juridique": "Une créance hospitalière est un droit de l'établissement public de santé d'obtenir le paiement d'une somme due par un débiteur au titre d'une prestation, d'une vente, d'un financement ou d'une autre opération. Elle doit être certaine, liquide et exigible selon les règles applicables et être régulièrement constatée et prise en charge. Les créances sont suivies en comptabilité et font l'objet, lorsque nécessaire, d'une dépréciation afin de traduire le risque de non-recouvrement.",
+    "Missions": "Les créances constituent une composante importante des recettes et de la trésorerie. Leur suivi permet de sécuriser les produits, de réduire les impayés et de fiabiliser l'actif et le résultat.",
+    "Compétences": "L'ordonnateur constate et liquide la créance et émet le titre ou les données nécessaires. Le comptable public prend en charge la créance et assure son recouvrement. Les services de facturation et les services producteurs fournissent les éléments nécessaires et traitent les contestations relevant de leur compétence.",
+    "Organisation": "Le suivi distingue notamment les créances par débiteur, nature, ancienneté et probabilité de recouvrement. Les restes à recouvrer sont rapprochés des données de facturation et de la comptabilité.",
+    "Procédure": "Fait générateur ? liquidation ? émission du titre ou facturation ? prise en charge par le comptable ? recouvrement ? analyse du risque d'impayé ? dépréciation éventuelle ? apurement.",
+    "Conditions_exceptions": "Le traitement dépend de la nature de la créance et du débiteur. La dépréciation n'est pas une annulation de créance : elle traduit comptablement un risque de non-recouvrement. Les règles de prescription et de recouvrement doivent être vérifiées selon le cas.",
+    "Fondement_juridique": [
+      "M21",
+      "GBCP"
+    ],
+    "Articles_précis": [
+      "M21",
+      "règles de recouvrement GBCP"
+    ],
+    "Textes_réglementaires": [
+      "M21",
+      "compte financier"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/eli/decret/2012/11/7/EFIX1205948D/jo/texte",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053158748"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "Recouvrement",
+      "dépréciation",
+      "restes à recouvrer"
+    ],
+    "Mots-clés": [
+      "créances",
+      "restes à recouvrer",
+      "patients",
+      "recouvrement"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-042",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Trésorerie",
+    "Notion": "Régies d'avances et de recettes",
+    "Définition_juridique": "Une régie est un dispositif permettant à un régisseur d'effectuer, pour le compte d'un organisme public, certaines opérations d'encaissement de recettes ou de paiement de dépenses qui relèvent normalement du circuit de l'ordonnateur et du comptable. Les régies constituent une modalité encadrée de la gestion budgétaire et comptable publique. Dans les EPS, elles facilitent notamment certains encaissements ou paiements de proximité.",
+    "Missions": "Les régies permettent d'adapter le circuit financier aux besoins opérationnels lorsque l'encaissement ou le paiement direct par le comptable n'est pas pratique. Elles améliorent la continuité du service tout en maintenant des contrôles financiers.",
+    "Compétences": "Le régisseur est nommé par l'ordonnateur avec l'agrément du comptable dans les conditions réglementaires. Il effectue uniquement les opérations prévues par l'acte constitutif. Le comptable public contrôle la régie, l'approvisionne ou en reçoit les fonds selon le cas et assure les opérations de contrôle et de comptabilisation qui lui incombent.",
+    "Organisation": "Chaque régie repose sur un acte constitutif précisant notamment son objet, sa nature, les opérations autorisées et les plafonds. Le régisseur tient les documents et justificatifs requis et reverse les recettes ou justifie les dépenses selon les périodicités prévues.",
+    "Procédure": "Création de la régie ? acte constitutif ? nomination du régisseur et agrément du comptable ? remise des fonds ou moyens nécessaires ? opérations ? contrôle ? justification et reversement ou apurement.",
+    "Conditions_exceptions": "Une régie ne peut exécuter que les opérations expressément autorisées. Les responsabilités du régisseur et du comptable sont distinctes. Les plafonds de caisse, d'encaissement ou d'avance et les règles de contrôle doivent être respectés.",
+    "Fondement_juridique": [
+      "GBCP",
+      "textes sur les régies",
+      "M21"
+    ],
+    "Articles_précis": [
+      "Décret n° 2012-1246 du 7 novembre 2012, art. 190 : nomination des régisseurs de recettes et d'avances.",
+      "Arrêté du 24 décembre 2012 relatif notamment aux moyens de règlement des dépenses publiques et d'encaissement des recettes publiques.",
+      "Acte constitutif de la régie."
+    ],
+    "Textes_réglementaires": [
+      "M21",
+      "textes GBCP"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026604221",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026835049"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence financière à documenter."
+    ],
+    "Notions_liées": [
+      "Régisseur",
+      "comptable public",
+      "encaissement"
+    ],
+    "Mots-clés": [
+      "régie",
+      "régisseur",
+      "caisse",
+      "DGFiP"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-043",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Patrimoine",
+    "Notion": "Patrimoine hospitalier",
+    "Définition_juridique": "Le patrimoine hospitalier comprend l'ensemble des biens, droits et actifs détenus ou utilisés par l'établissement public de santé pour l'exercice de ses missions. Il comprend notamment les immeubles, terrains, équipements, installations, biens mobiliers, droits incorporels et immobilisations financières. Les biens relevant du domaine public des EPS sont soumis aux règles du Code général de la propriété des personnes publiques et aux dispositions particulières du Code de la santé publique.",
+    "Missions": "La gestion patrimoniale vise à conserver, sécuriser, valoriser et adapter les biens nécessaires au fonctionnement de l'établissement. Elle permet de maîtriser les coûts de possession, les investissements et les risques juridiques et techniques.",
+    "Compétences": "La direction générale définit les orientations. Les services patrimoine, travaux, biomédical, informatique, finances et juridique interviennent selon la nature des biens. Le comptable assure la comptabilisation des immobilisations. Les utilisateurs sont responsables du bon usage et du signalement des mouvements ou anomalies.",
+    "Organisation": "Le patrimoine doit être suivi à la fois juridiquement, physiquement et comptablement. La distinction entre domaine public et domaine privé conditionne notamment les possibilités de cession, d'occupation et de valorisation.",
+    "Procédure": "Acquisition ou affectation ? identification juridique et physique ? inscription à l'inventaire ? utilisation et maintenance ? suivi comptable ? réévaluation ou dépréciation si nécessaire ? cession, transfert ou sortie selon le régime applicable.",
+    "Conditions_exceptions": "Les règles diffèrent selon que le bien relève du domaine public ou du domaine privé. Les biens du domaine public des EPS sont en principe inaliénables et imprescriptibles, sous réserve des procédures prévues par le CG3P. Il faut distinguer propriété, affectation et simple mise à disposition.",
+    "Fondement_juridique": [
+      "M21",
+      "règles domaniales applicables aux personnes publiques"
+    ],
+    "Articles_précis": [
+      "CSP, art. L. 6148-1 : domaine public des EPS et règles d'inaliénabilité et d'imprescriptibilité.",
+      "CG3P, art. L. 2111-1 et suivants : définition du domaine public.",
+      "CG3P, art. L. 3111-1 et suivants : protection du domaine public."
+    ],
+    "Textes_réglementaires": [
+      "M21",
+      "CG3P"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006171472/",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006147498/"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence administrative à documenter."
+    ],
+    "Notions_liées": [
+      "Immobilisations",
+      "inventaire",
+      "domaine public"
+    ],
+    "Mots-clés": [
+      "patrimoine",
+      "immobilisations",
+      "domaine public",
+      "inventaire"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-044",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Comptabilité",
+    "Notion": "Inventaire comptable",
+    "Définition_juridique": "L'inventaire comptable est le recensement organisé des immobilisations et autres éléments patrimoniaux permettant de rapprocher la réalité physique, les documents de gestion et les comptes. Dans un établissement public de santé, il contribue à la fiabilité de l'actif et des amortissements et à la préparation du compte financier. Il doit être cohérent avec les règles de la M21.",
+    "Missions": "Il permet de vérifier que les biens inscrits à l'actif existent, sont correctement identifiés et valorisés et que les biens sortis ou transférés ne restent pas indûment comptabilisés.",
+    "Compétences": "Les services utilisateurs et patrimoniaux réalisent ou alimentent le recensement physique. La direction financière contrôle les données et les rapprochements. Le comptable public assure la tenue des comptes et traite les régularisations comptables dans son périmètre.",
+    "Organisation": "L'inventaire associe les données physiques et comptables : identification du bien, localisation, responsable, coût, date de mise en service, durée et plan d'amortissement, mouvements et sortie. Les écarts sont analysés et documentés.",
+    "Procédure": "Inventaire physique ? rapprochement avec les fichiers patrimoniaux et les comptes ? identification des écarts ? recherche des causes ? régularisation administrative et comptable ? contrôle de clôture.",
+    "Conditions_exceptions": "L'inventaire ne se limite pas à un comptage physique. Les immobilisations en cours, les biens mis à disposition, les biens totalement amortis et les biens sortis doivent être traités selon leur situation. Les règles M21 du millésime 2026 doivent être utilisées.",
+    "Fondement_juridique": [
+      "M21"
+    ],
+    "Articles_précis": [
+      "M21, règles relatives à l'inventaire et aux immobilisations"
+    ],
+    "Textes_réglementaires": [
+      "M21 2026"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053158748"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "Immobilisations",
+      "amortissement",
+      "mise en service",
+      "sortie"
+    ],
+    "Mots-clés": [
+      "inventaire",
+      "immobilisations",
+      "fiabilisation",
+      "M21"
+    ]
+  },
+  {
+    "Notion_ID": "FIN-045",
+    "Domaine": "Finances hospitalières",
+    "Sous-domaine": "Qualité comptable",
+    "Notion": "Fiabilisation des comptes",
+    "Définition_juridique": "La fiabilisation des comptes regroupe les actions destinées à garantir que les comptes de l'établissement public de santé présentent de manière régulière, sincère et fidèle les opérations, la situation financière et patrimoniale et les résultats de l'exercice. Elle repose notamment sur la qualité des processus, le contrôle interne, les inventaires, les rapprochements, la justification des soldes et les travaux de clôture. Elle constitue une condition essentielle à la qualité du compte financier et, pour les établissements concernés, à la certification des comptes.",
+    "Missions": "Elle vise à produire une information financière fiable, à prévenir les erreurs et anomalies, à sécuriser les processus et à faciliter les travaux du comptable et, le cas échéant, du certificateur.",
+    "Compétences": "L'ordonnateur et le comptable ont chacun des responsabilités dans la production et la qualité des comptes. Les directions métiers et services financiers produisent et contrôlent les données. Le certificateur intervient, lorsque l'établissement est dans le champ de certification, en exprimant une opinion sur les comptes selon les règles applicables.",
+    "Organisation": "La fiabilisation est organisée par processus : recettes, dépenses, immobilisations, stocks, provisions, dettes, créances, trésorerie et clôture. Les risques sont identifiés, les contrôles définis et les anomalies suivies jusqu'à leur correction.",
+    "Procédure": "Cartographie des risques ? définition des contrôles ? réalisation des contrôles et rapprochements ? analyse des anomalies ? corrections ? justification des soldes ? clôture ? audit ou certification le cas échéant.",
+    "Conditions_exceptions": "Le niveau de contrôle doit être proportionné aux risques. La fiabilisation ne se confond pas avec la certification : elle relève d'abord du dispositif interne de qualité comptable, tandis que la certification est une mission externe exercée pour les établissements entrant dans le champ légal.",
+    "Fondement_juridique": [
+      "CSP L.6145-16",
+      "M21",
+      "principes comptables"
+    ],
+    "Articles_précis": [
+      "CSP, art. L. 6145-16 : certification des comptes des EPS définis par décret.",
+      "CSP, art. R. 6145-61-1 à D. 6145-61-8 : modalités de certification.",
+      "M21 : règles de comptabilisation, clôture et qualité des comptes."
+    ],
+    "Textes_réglementaires": [
+      "M21",
+      "compte financier",
+      "dispositifs de certification"
+    ],
+    "Sources_officielles": [
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020886690",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006196751/",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053158748"
+    ],
+    "Jurisprudence": [
+      "Jurisprudence à documenter."
+    ],
+    "Notions_liées": [
+      "Certification",
+      "contrôle interne",
+      "inventaire",
+      "créances"
+    ],
+    "Mots-clés": [
+      "fiabilisation",
+      "comptes",
+      "contrôle interne",
+      "M21"
+    ]
+  }
 ]
-
-}
-{
-
-"Notion_ID": "FIN-002",
-
-"Domaine": "Finances hospitalières",
-
-"Sous-domaine": "Budget",
-
-"Notion": "Budget hospitalier",
-
-"Définition_juridique": "Dans les établissements publics de santé, le budget annuel est principalement constitué par l'état des prévisions de recettes et de dépenses (EPRD), qui est l'acte par lequel sont prévues et autorisées les recettes et les dépenses annuelles de l'établissement. Le terme « budget hospitalier » désigne ainsi le cadre annuel de prévision et d'autorisation financière de l'EPS, et non un simple tableau prévisionnel de trésorerie. En application de l'article R. 6145-13 du Code de la santé publique, il comprend un compte de résultat prévisionnel principal, des comptes de résultat prévisionnels annexes pour certaines activités et un tableau de financement prévisionnel pour les opérations d'investissement. Les crédits budgétaires sont en principe évaluatifs, sauf ceux inscrits sur les titres ou chapitres auxquels les textes confèrent un caractère limitatif. Le budget annuel doit être distingué du PGFP, qui décrit la trajectoire financière pluriannuelle, et du compte financier, qui retrace l'exécution de l'exercice. Pour 2026, la présentation de l'EPRD et des décisions modificatives est régie par l'arrêté du 16 décembre 2025.",
-
-"Missions": "Le budget hospitalier permet de traduire financièrement les activités, les orientations et les choix de gestion de l'établissement pour un exercice. Il sert à prévoir les recettes attendues, autoriser les dépenses, programmer les opérations d'investissement, apprécier l'équilibre financier prévisionnel et donner un cadre au suivi de l'exécution. Il constitue également un instrument de pilotage : la comparaison entre les prévisions et l'exécution permet d'identifier les écarts, d'actualiser les prévisions et, lorsque nécessaire, de prendre des décisions modificatives. Il s'articule avec le PGFP afin que les décisions annuelles restent cohérentes avec la trajectoire financière pluriannuelle.",
-
-"Compétences": "Le directeur de l'établissement public de santé fixe les prévisions de recettes et de dépenses et est l'ordonnateur du budget. Il peut, en cours d'exercice, procéder à certains virements de crédits dans les limites prévues par les textes et fixe les décisions modificatives dans les conditions réglementaires. Les services financiers et les responsables opérationnels contribuent à la préparation et au suivi des prévisions, sans disposer pour autant de la compétence juridique de l'ordonnateur. Le comptable public contrôle notamment la disponibilité des crédits limitatifs au niveau prévu par les textes et exécute les opérations qui relèvent de ses attributions. Le directeur général de l'ARS peut demander certaines modifications budgétaires dans les conditions prévues par le Code de la santé publique et exerce les compétences de contrôle qui lui sont attribuées. Le conseil de surveillance intervient notamment dans le cadre de l'approbation du compte financier, mais ne vote pas l'EPRD comme le faisait l'ancien conseil d'administration.",
-
-"Organisation": "Le budget est organisé autour d'un EPRD unique pour les dépenses et recettes des activités de l'EPS, complété par des comptes de résultat prévisionnels annexes pour les activités expressément prévues par l'article R. 6145-12. Le compte de résultat prévisionnel principal retrace les opérations d'exploitation qui ne relèvent pas d'un compte annexe ; le tableau de financement prévisionnel retrace les opérations d'investissement de l'ensemble des services et activités. Cette architecture permet de relier résultat prévisionnel, capacité d'autofinancement et financement des investissements. Elle doit être mise en cohérence avec le PGFP et avec les règles de la nomenclature M21. La préparation et l'exécution reposent sur l'articulation entre ordonnateur, services de l'établissement et comptable public.",
-
-"Procédure": "La préparation commence par l'établissement des prévisions de recettes, de dépenses et d'investissement à partir de l'activité attendue, des ressources connues ou prévisibles, des charges, des projets d'investissement et de la trajectoire du PGFP. Le directeur fixe ensuite les prévisions selon les modalités prévues par le Code de la santé publique. L'EPRD est présenté selon le modèle réglementaire applicable à l'exercice et transmis dans les conditions prévues par les textes. En cours d'exercice, son contenu peut être ajusté par des décisions modificatives ; certaines décisions liées notamment à une modification de dotations doivent être transmises à l'ARS dans les conditions prévues à l'article R. 6145-10. L'exécution fait l'objet d'un suivi budgétaire et comptable, notamment au regard des crédits limitatifs. En fin d'exercice, les opérations exécutées sont retracées dans le compte financier, qui permet de comparer la situation réalisée aux prévisions.",
-
-"Conditions_exceptions": "Le régime concerne les établissements publics de santé et ne doit pas être assimilé au régime budgétaire des établissements privés de santé ou des établissements et services médico-sociaux. Les crédits inscrits au budget sont en principe évaluatifs ; certains titres ou chapitres sont limitatifs et font l'objet d'un contrôle spécifique de disponibilité par le comptable public. L'EPRD est unique pour les activités de l'EPS, mais l'article R. 6145-12 prévoit des comptes de résultat prévisionnels annexes pour certaines activités, notamment les unités de soins de longue durée, les écoles et instituts de formation concernés et certains établissements et services d'hébergement de personnes âgées. Les décisions modificatives sont soumises aux règles propres à leur objet ; lorsqu'elles modifient certaines dotations, elles doivent être transmises à l'ARS au plus tard le 31 décembre de l'exercice concerné.",
-
-"Fondement_juridique": [
-
-"Code de la santé publique, articles L. 6145-1 et suivants relatifs à l'organisation financière des établissements publics de santé.",
-
-"Code de la santé publique, articles R. 6145-10 à R. 6145-20 relatifs à la présentation et à la fixation de l'EPRD.",
-
-"Décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.",
-
-"Instruction budgétaire et comptable M21 applicable aux établissements publics de santé."
-
-],
-
-"Articles_précis": [
-
-"CSP, art. L. 6145-1 : principes relatifs à l'état des prévisions de recettes et de dépenses.",
-
-"CSP, art. L. 6145-4 : compétences du directeur général de l'ARS en matière de modification de l'EPRD.",
-
-"CSP, art. L. 6145-7 : ressources des établissements publics de santé et règles relatives aux prévisions de recettes.",
-
-"CSP, art. R. 6145-5 : directeur ordonnateur du budget de l'établissement public de santé.",
-
-"CSP, art. R. 6145-10 : définition de l'EPRD, fixation des prévisions et décisions modificatives.",
-
-"CSP, art. R. 6145-12 : EPRD unique et comptes de résultat prévisionnels annexes.",
-
-"CSP, art. R. 6145-13 : composition du budget des établissements publics de santé.",
-
-"CSP, art. R. 6145-14 : caractère évaluatif ou limitatif des crédits.",
-
-"CSP, art. R. 6145-16 : opérations d'investissement retracées dans le tableau de financement prévisionnel.",
-
-"CSP, art. R. 6145-18 : présentation synthétique par titre et détaillée par chapitre.",
-
-"CSP, art. R. 6145-19 et R. 6145-20 : modalités de fixation et de transmission de l'EPRD."
-
-],
-
-"Textes_réglementaires": [
-
-"Décret n° 2012-1247 du 7 novembre 2012 relatif aux dispositions financières et comptables des établissements publics de santé.",
-
-"Arrêté du 16 décembre 2025 fixant le modèle des documents de l'état des prévisions de recettes et de dépenses et le modèle des documents de décision modificative des établissements publics de santé et des établissements de santé privés mentionnés aux b et c de l'article L. 162-22 du code de la sécurité sociale, applicable à compter de l'exercice 2026.",
-
-"Arrêté du 17 décembre 2025 modifiant les arrêtés relatifs à l'instruction budgétaire et comptable M. 21 des établissements publics de santé, applicable pour l'exercice 2026."
-
-],
-
-"Sources_officielles": [
-
-"Légifrance — Code de la santé publique, chapitre V « Organisation financière » : https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006178704",
-
-"Légifrance — Présentation et fixation de l'EPRD, articles R. 6145-10 à R. 6145-20 : https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006196964/",
-
-"Légifrance — Article R. 6145-13 relatif à la composition du budget des établissements publics de santé : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006691051",
-
-"Légifrance — Arrêté du 16 décembre 2025 fixant les modèles EPRD et décisions modificatives : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053165953",
-
-"Ministère de la Santé — EPRD, PGFP, TPER et cadres EPRD 2026 : https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/financement/regles-budgetaires-et-comptables/article/etat-des-previsions-de-recettes-et-de-depenses-eprd-plan-global-de-financement",
-
-"Ministère de la Santé — Instruction et nomenclature budgétaire et comptable M21, exercice 2026 : https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/financement/regles-budgetaires-et-comptables/article/instruction-et-nomenclature-budgetaire-et-comptable-des-etablissements-publics"
-
-],
-
-"Jurisprudence": [],
-
-"Notions_liées": [
-
-"FIN-001 — Finances hospitalières",
-
-"FIN-003 — EPRD",
-
-"FIN-005 — PGFP",
-
-"FIN-007 — Compte financier"
-
-],
-
-"Mots-clés": [
-
-"budget hospitalier",
-
-"EPRD",
-
-"prévision",
-
-"autorisation",
-
-"crédits limitatifs",
-
-"dépenses",
-
-"recettes",
-
-"investissement",
-
-"décision modificative",
-
-"PGFP"
-
-]
-
-}
