@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import notions from "./data/finances.json";
+import notions from "./data/referentiel.json";
 
 function App() {
   const [search, setSearch] = useState("");
